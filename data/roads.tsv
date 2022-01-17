@@ -1,0 +1,762 @@
+road_id	desc	length
+AA000	Kollupitiya - Sri    Jayewardenepura	7.12
+AA001	Colombo - Kandy	115.85
+AA002	Colombo - Galle - Hambantota -    Wellawaya	317.78
+AA003	Peliyagoda - Puttalam	126.31
+AA004	Colombo - Ratnapura - Wellawaya -    Batticaloa	430.57
+AA005	Peradeniya - Badulla - Chenkaladi	275.64
+AA006	Ambepussa - Kurunegala - Trincomalee	198.71
+AA007	Avissawella - Hatton - Nuwara Eliya	118.7
+AA008	Panadura - Nambapana - Ratnapura	67.77
+AA009	Kandy - Jaffna	321.0
+AA010	Katugastota - Kurunegala - Puttalam	124.58
+AA011	Maradankadawela Habarana    Tirikkondiadimadu	129.36
+AA012	Puttalam - Trincomalee	176.99
+AA013	Galkulama - Anuradhapura	16.64
+AA014	Medawachchiya - Mannar - Talaimannar	113.84
+AA015	Batticaloa - Tirikkondiadimadu -    Trincomalee	130.86
+AA016	Beragala - Hali-Ela	40.39
+AA017	Galle - Deniyaya - Madampe	143.93
+AA018	Pelmadulla - Embilipitiya - Nonagama	87.69
+AA019	Polgahawela -Kegalle	11.67
+AA020	Anuradhapura - Rambewa	14.48
+AA021	Kegalle - Bulathkohupitiya -    Karawanella	42.12
+AA022	Passara - Moneragala	34.11
+AA023	Wellawaya - Ella - Kumbalwela	30.57
+AA024	Matara - Akuressa	20.11
+AA025	Siyambalanduwa - Damana - Ampara	57.12
+AA026	Kandy - Mahiyangana - Padiyatalawa	105.23
+AA027	Ampara - Uhana - MahaOya	57.92
+AA028	Padeniya - Anuradhapura	80.52
+AA029	Vavuniya - Horowopotana	46.02
+AA030	Vavuniya - Parayanalankulam	35.8
+AA031	Karativu - Ampara	24.14
+AA032	Navakkuli - Kerativu - Mannar	98.37
+AA033	Ja-Ela - Ekala - Gampaha - Yakkala	17.02
+AA034	Mankulam - Mullaitivu	49.25
+AA035	Paranthan - Kachchai - Mullaitivu	52.13
+AB001	Ampara - Inginiyagala	19.79
+AB002	Anuradhapura New Town Roads	12.66
+AB003	Approach Road to Gampola Bridge	0.48
+AB004	Approach Road to Kaduwela Bridge	0.77
+AB005	Approach Road to Sri Jayewardenepura    Hospital	2.46
+AB006	Avissawella Town Road	0.06
+AB007	Balangoda By Pass	1.13
+AB008	Bandarawela By Pass	0.51
+AB009	Canada Friend-ship Road	2.4
+AB010	Colombo - Hanwella Low Level Road	24.94
+AB011	Galle Road New Deviation (Cross Junc.    to Egoda Uyana)	6.98
+AB012	Galle - Marine Drive	1.22
+AB013	Gampola - Nawalapitiya	17.54
+AB014	Hospital - Esplanade road, Ratnapura	1.66
+AB015	Inner ring Road 	3.8
+AB016	Jaffna - Kankesanturai	18.5
+AB017	Jaffna - Manipay - Karainagar	27.21
+AB018	Jaffna - Palali	17.3
+AB019	Jaffna - Pannai - Kayts	19.31
+AB020	Jaffna - Point Pedro	33.79
+AB021	Jaffna - Ponnalai - Point Pedro	55.38
+AB022	Jail Road, Hambantota	0.43
+AB023	Kalattawa - Matale Junction	6.44
+AB024	Link Road -- Dambulla	1.0
+AB025	Lion Pillar - Sri Maha Bodhi Road	1.21
+AB026	Matale - Udupihilla	6.03
+AB027	Old Colombo - Galle Road, Panadura	1.9
+AB028	Old Colombo - Puttalam Road, Ja Ela	0.95
+AB029	Pasyala - Giriulla	19.31
+AB030	Poonakary - Sangupiddy	8.85
+AB031	Puloly - Kodikamam - Kachchai	18.91
+AB032	Puttur - Meesalai	13.68
+AB033	Samanturai village Road	1.85
+AB034	Sea Street, Galle	0.16
+AB035	Section A - B NEW TOWN ROAD, Ratnapura	1.85
+AB036	Thalapitiya road, Galle	0.98
+AB037	Upper Gampola Road	2.57
+AB038	Valachchenai - Nasavantivu - Nawaladi	5.12
+AB039	Valukkairaru - Pungudutivu -    Kurikadduwan	24.54
+AB040	Wattala Deviation	0.64
+AB041	Weligama By Pass	4.18
+AB042	Getambe Kandy By Pass	3.8
+AB043	Wellawaya By Pass	1.15
+AB044	Mahiyangana - Dimbulagala - Dalukkane	72.6
+AB045	Avissawela By pass	0.88
+AC001	Approach Road to Independence    Memorial	1.61
+AC002	Bauddhaloka Mawatha (Buller's Road)	2.77
+AC003	Central Road	0.6
+AC004	Cotta Road up to City Limit	1.37
+AC005	Danister De Silva Mawatha (Baseline    Road)	2.56
+AC006	D.R.Wijewardana Mawatha (McCallum    Road)	1.9
+AC007	D.S.Senanayake Mawatha (Kanatta Road)	0.53
+AC008	Elvitigala Mawatha (Narahenpita Road -    Kanatta Junc.)	1.88
+AC009	Fifth Cross Street	0.32
+AC010	Gas Work street	0.34
+AC011	George R De Silva Mawatha (Skinners's    Road)	1.09
+AC012	Havelock Road - Maya Avenue Junction    to Pamankada Bridge	1.13
+AC013	Jayantha Weerasekara Mawatha    (Drieberg's avenue)	0.77
+AC014	Layards Broadway road - Barber Street    to Prince of Wales Avenue	0.26
+AC015	Lotus Road	0.93
+AC016	Maha Vidyala Mawatha (Barber Street)	0.53
+AC017	Main Street from Lotus road to    Reclamation road	0.23
+AC018	Maligawatta Road - Jayantha    Weerasekera Mw. to Sri Saddhamma Mw.	0.27
+AC019	Maradana Road	2.59
+AC020	N.H.M.Abdul Cader Mawatha (Reclamation    road)	0.51
+AC021	Pamankada Road	0.32
+AC022	Panchikawatta Road - Maradana Road to    Janaytha Weerasekara Mw.	0.14
+AC023	Part of Sri Ramanathan Mw. - (K'boam St.    to Skinnders's rd. junc.)	0.31
+AC024	Prince of Wales Avenue	2.25
+AC025	Railway Road	0.32
+AC026	Sea Beach Road	0.45
+AC027	Sri Dharmarama Mawatha (Albion Road)	0.48
+AC028	Sri Saddharma Mawatha (Ingram Road)	0.88
+AC029	Sri Sangaraja Mawatha (Skinner's Road    [South])	0.93
+AC030	Sri Sumanatissa Mawatha (Armour    Street)	0.66
+AC031	St. Anthony's Mawatha (Kochchikade    Road)	0.34
+AC032	W.A. de Silva Mawatha (High Street)	0.92
+B001	Akkaraipattu -    Warapathanchenai	20.92
+B002	Akkaraipattu -    Sagamam	18.5
+B003	Akuressa -    Kamburupitiya	13.27
+B004	Akuressa - Ketanwila	5.63
+B005	Aladeniya - Iriyagama	9.65
+B006	Alakolanga -    Pottepitiya	9.25
+B007	Alawatugoda -    Ankumbura - Keppetigala	14.79
+B008	Alawwa - Dampelessa	14.64
+B009	Alawwa - Maharagama	14.63
+B010	Allai Kantale	41.03
+B011	Allan Avenue,    Dehiwela	1.96
+B012	Aluthgama - Wigoda	8.05
+B013	Alvai - Nelliady -    Tunnalai	8.53
+B014	Ambalangoda -    Elpitiya - Pitigala	29.36
+B015	Ambatenne - Bokkawela    - Arambekade	19.9
+B016	Ampara Air Port Road	4.83
+B017	Ampara Town Roads	30.57
+B018	Ampilanthurai -    Veeramunai	26.38
+B019	Anamaduwa - Uswewa -    Galgamuwa	39.02
+B020	Ananda Avenue	0.24
+B021	Andalla - Tissa	6.63
+B022	Anderson Avenue	0.11
+B023	Approach Road to    Admiralty Building	28.32
+B024	Approach Road to    Aerodrome Ratmalana	2.93
+B025	Approach Road to    Laxapana Power House	11.54
+B026	Approach Road to    Midford Power House	0.97
+B027	Approach Roads to    Railway Stations	17.68
+B028	Approach Road to    Wilpattu Sanctuary	7.74
+B029	Approach Roads to    University Buildings	19.31
+B030	Approach Roads to    Public Buildings	21.54
+B031	Arasady - Malkampiddy	5.23
+B032	Attidiya - Mt.Lavinia	2.41
+B033	Avarangal -    Thondamanaru	6.03
+B034	Ayagama - Kukulegama	16.89
+B035	Badalkumbura -    Buttala - Sella Kataragama	56.32
+B036	Badulla - Karametiya    - Andaulpotha	48.1
+B037	Baladaksha Mawatha,    Galle	0.56
+B038	Balangoda - Bowatte -    Kaltota	28.96
+B039	Balangoda - Rassagala    - Uwella	13.26
+B040	Balapitiya -    Watugedera	3.22
+B041	Bandaranaika Mawatha,    Galle	0.56
+B042	Bandarawela -    Liyangahawela - Poonagala	21.56
+B043	Bandarawela - Uva    Hihglands - Ettampitiya	16.49
+B044	Bandarawela -    Welimada	21.72
+B045	Bangadeniya -    Andigama - Anamaduwa	38.21
+B046	Bar Road - Batticaloa	4.67
+B047	Battaramulla -    Pannipitiya	7.29
+B048	Batukotuwa -    Medirigiriya	8.69
+B049	Bazaar Street,    Ambalangoda	1.69
+B050	Bazaar Street,    Gampaha	0.05
+B051	Bazzar Street and    Edingburgh Street	0.63
+B052	Bazzar Street,    Vavuniya	2.09
+B053	Beach Road Mullaitivu	0.87
+B054	Beliatta - Walasmulla	15.69
+B055	Bentara - Uragaha -    Elpitiya	26.95
+B056	Bibile - Medagama -    Nakkala	33.79
+B057	Bibile - Uraniya -    Mahiyangana	39.58
+B058	Biyanwila - Ganemulla	8.05
+B059	Bo Tree Road	2.01
+B060	Bogahawewa -    Pulmuddai	27.76
+B061	Boossa - Hegoda	1.61
+B062	Borella - Rajagiriya    (CMC Limits to Filling Station - Rajagiriya)	1.3
+B063	Botale - Mirigama	5.63
+B064	Bowatenna Access Road	2.41
+B065	Bowatte - Padiwela	6.44
+B066	Boyagama -    Mandandawala	2.09
+B067	Bulathkohupitiya -    Dedugala	12.47
+B068	Ingiriya - Halwatura    - Egaloya	8.85
+B069	Buwelikada - Lewella	1.3
+B070	By pass road via    Asgiriya	0.98
+B071	Carolina - Norton -    Wanarajah	23.73
+B072	Cemetery Road    (Gampaha)	0.26
+B073	Chadayantalawa -    Uhana	11.26
+B074	Chavakachcheri -    Kachchai	6.44
+B075	Chavakachcheri -    Puloly	19.31
+B076	Chavakachcheri -    Thannankilappu	3.62
+B077	Chavalakadai -    Chadayantalawa	8.05
+B078	Chilaw Road, Negombo	1.26
+B079	Chilaw - Wariyapola	50.64
+B080	Chundikuli -    Colombouthurai	2.56
+B081	Chunnakam Power    Station Road	0.16
+B082	Circular Road    Kurunegala	9.84
+B083	Circular Road,    Tangalle	1.45
+B084	Colombo - Horana	28.01
+B085	Cross Road -    Medawachchiya	0.48
+B086	Dambagahapitiya -    Pinnagolla - Arawa - Meegahakiula	13.32
+B087	Dambokka - Katupitiya	8.85
+B088	Dandagamuwa - Udawela	13.27
+B089	Danikittawa -    Ambanpola	22.33
+B090	Danowita - Mirigama	8.61
+B091	Daulagala -    Watadeniya	7.45
+B092	Deegawapi Temple Road	6.44
+B093	Dehiowita -    Deraniyagala - Noori	27.96
+B094	Dehiwela - Maharagama	7.64
+B095	Delgoda - Dompe -    Giridara	12.07
+B096	Dematagoda -    Wellampitiya	1.93
+B097	Demodera - Spring    Valley - Badulla	21.32
+B098	Denegama - Mulatiyana	11.26
+B099	Deniyaya - Viharahena	8.04
+B100	Dickwella - Jangulla    - Talpitigala	24.14
+B101	Dikwella - Beliatte	13.27
+B102	Diyatalawa -    Aluthwela North	2.81
+B103	Diyatalawa -    Aluthwela South	1.96
+B104	Diyatalawa -    Mirahawatta	6.44
+B105	Diyatalawa -    Welanhinna - Walagahawela	5.63
+B106	Dodanduwa -    Gonapinuwala	3.86
+B107	Dondra Light House    Road	1.25
+B108	Dunagaha -    Nilpanagoda	5.79
+B109	Edmand Mawatha, Galle	4.02
+B110	Eheliyagoda -    Dehiowita	16.78
+B111	Ekala - Kotadeniyawa	26.95
+B112	Elahera - Giritale	39.42
+B113	Ella - Passara	27.55
+B114	Elpitiya - Avittawa -    Lewwanduwa	27.56
+B115	Embilipitiya -    Panamure - Bulutota	38.62
+B116	Embilmeegama -    Daulagala - Penideniya	11.26
+B117	Eppawala -    Timbiriwewa	15.69
+B118	Eriyagama -    Penideniya	0.93
+B119	Erukkalampuddy -    Causeway	0.8
+B120	Etulkotte - Mirihana    - Kohuwela	5.95
+B121	Gadaladeniya -    Paranapattiya	5.23
+B122	Galagedara -    Rambukkana	18.5
+B123	Galagedera - Horana	19.05
+B124	Galagoda - Weligepola	7.24
+B125	Galaha - Pupuressa -    Delpitiya (Section 2)	28.96
+B126	Galgamuwa - Nikawewa	24.54
+B127	Galigomuwa -    Ruwanwella	22.53
+B128	Galle - Baddegama	19.31
+B129	Galle - Udugama	36.6
+B130	Galle - Wakwella	6.84
+B131	Galmadu - Muwangala -    Hingurana	7.64
+B132	Gampola - Craighead	15.93
+B133	Ganewelpola -    Dachchahalmillewa	45.86
+B134	Gangodawila -    Boralesgamuwa	2.61
+B135	Geli Oya - Embekke	4.23
+B136	Gevilipitiya -    Hettimulla	15.37
+B137	Ginoya - Bolawatte -    Dankotuwa	4.7
+B138	Gintota Plywood    Factory Road	4.51
+B139	Gonadeniya - Udugama	4.02
+B140	Gravets Road	5.71
+B141	Hakmana - Beliatte -    Tangalle	19.31
+B142	Hakmana - Meella -    Talahaganwaduwa	11.26
+B143	Halpatota -    Kurundugahahetekma	16.49
+B144	Halwatura Estate Road	1.0
+B145	Hanwella Junction    Road	0.8
+B146	Hanwella - Pugoda -    Weke - Urapola	24.14
+B147	Haputale - Dambetenne	9.32
+B148	Harangala -    Kalapitiya - Kumbaloluwa	23.39
+B149	Hatton - Maskeliya -    Dalhousie	32.97
+B150	Hedeniya - Pujapitiya	8.05
+B151	Hendala - Hunupitiya	4.02
+B152	Mattakkuliya    Uswetakeiyawa Pinwattha	7.66
+B153	Hikkaduwa - Baddegama    - Nilhena	14.88
+B154	Hindagala - Naranwita    - Gampola	15.78
+B155	Hingurakgoda - Yoda    Ela	5.63
+B156	Hiniduma - Opatha -    Pitabeddera	31.38
+B157	Horana - Anguruwatota    - Aluthgama	54.14
+B158	Horawela - Pelawatte    - Pitigala	25.74
+B159	Ibbagamuwa -    Kumbukgete - Madagalla	34.19
+B160	Idangoda - Ayagama	13.68
+B161	Imbulgoda -    Weliweriya	4.42
+B162	Inamaluwa - Sigiriya	9.17
+B163	Ingiriya -    Halwatura 	2.96
+B164	Jaffna Junction - Sri    Maha Bodhi	2.41
+B165	Kachcheri Beach Fort    Road	3.62
+B166	Kadahapola -    Rambawewa	18.71
+B167	Kadawalagedara -    Vitikuliya	13.84
+B168	Kadawata - Ragama -    Welisara	8.05
+B169	Kadawatha -    Mawaramandiya	3.54
+B170	Kadduwan - Mallakam -    Chankanai	11.26
+B171	Kadduwan - Myliddy	3.72
+B172	Kadugannawa - Gampola	17.3
+B173	Kadugannawa -    Pottepitiya	8.45
+B174	Kaduwela -    Athurugiriya	9.25
+B175	Kahambiliyagoda -    Suriyagoda	0.4
+B176	Kahawa - Batapola	8.37
+B177	Kahawatte -    Ela-Bemmullegedara	12.23
+B178	Kakkapalliya -    Thambagalla	6.84
+B179	Kalagedihena -    Veyangoda	4.1
+B180	Kalalpitiya - Ukuwala    - Elkaduwa	13.47
+B181	Kalawana - Depdene -    Rakwana	46.66
+B182	Kalawewa - Avukana	4.68
+B183	Kaleliya - Pallewela    - Medagampitiya	10.22
+B184	Kalkudah Road	5.63
+B185	Kalkudah -    Valachchenai	4.42
+B186	Kalmunai Sea View    Road	1.21
+B187	Kalmunai -    Chavalakadai	4.38
+B188	Kaluaggala - Labugama	14.0
+B189	Kalugala - Polpitiya    - Laxapana	11.26
+B190	Kalugamuwa -    Wilakatupotha	21.11
+B191	Kalutara - Nagoda	5.74
+B192	Kandasamykovil -    Kaluthaipiddy	3.38
+B193	Kandasamykovil -    Nachchimarkovil	2.43
+B194	Kandaswamy Mawatha	1.21
+B195	Kandy - Kirimetiya	16.09
+B196	Kantale Perathuveli    Road	2.25
+B197	Karainagar Circular    Road	6.77
+B198	Karaiyoor Reclamation	3.06
+B199	Karandupona -    Rambukkana	8.85
+B200	Karappikade Extension    Road	0.4
+B201	Karuwalagaswewa -    Miyallewa	19.31
+B202	Kataragama -    Sella-Kataragama	5.05
+B203	Katpaha - Pulliar    Kovil Road	1.61
+B204	Katubedde - Kospelena	1.82
+B205	Katugastota -    Madawala - Bambarella	34.89
+B206	Katugastota -    Medawela	10.3
+B207	Katukurunda - Neboda	16.49
+B208	Katunayake -    Veyangoda	22.32
+B209	Kebithigollewa    Extension Road	1.85
+B210	Kebithigollewa New    Town Road	0.97
+B211	Kebithigollewa -    Padaviya	33.79
+B212	Kekirawa -    Ganewelpola	6.95
+B213	Kekirawa - Talawa	37.41
+B214	Kelaniya - Mudungoda	27.76
+B215	Kelaniya - Wedamulla    (Waragoda)	3.22
+B216	Kesbewa -    Kindelpitiya - Bandaragama	11.78
+B217	Ketapola - Omatta -    Thotupola	1.61
+B218	Kibissa -    Digampathana	6.03
+B219	King George Avenue	0.48
+B220	Kiribathgoda -    Hunupitiya	3.59
+B221	Kiribathgoda - Oil    Refinery, Sapugaskande	5.07
+B222	Kiriella - Nedurana -    Eheliyagoda	14.08
+B223	Kirimetitenna -    Galgoda	5.63
+B224	Kirimetiya - Yala	17.17
+B225	Kirindiwita -    Assennawatte	12.87
+B226	Kirindiwita -    Ganemulla	2.82
+B227	Kiriyankalli -    Andigama	13.68
+B228	Kochchikade - Halpe	9.46
+B229	Kohuwela - Dehiwela	2.74
+B230	Kokkuvil -    Vaddukoddai	8.45
+B231	Kolonnawa - Angoda	3.22
+B232	Kolonnawa - Yakbedde	2.41
+B233	Kong Tree Road	0.53
+B234	Korakahawewa - Sri    Maha Bodhi	4.83
+B235	Koralawella -    Egoda-Uyana	5.84
+B236	Koslande - Poonagala	11.55
+B237	Kotadeniyawa -    Mirigama	8.05
+B238	Kottawa - Batemulla	13.68
+B239	Kottawa - Talagala	15.48
+B240	Kotte - Bope	28.8
+B241	Kudapaduwa -    Kammalturai	3.01
+B242	Kudugala - Wattegama	12.07
+B243	Kuliyapitiya -    Hettipola	15.69
+B244	Kuliyapitiya -    Padiwela	11.26
+B245	Kurana Road	0.88
+B246	Kurana - Taladuwa	1.85
+B247	Kurunegala -    Narammala - Madampe	64.36
+B248	Labuduwa - Wandurambe    - Sandarawela	22.12
+B249	Lady Macallums Drive	5.63
+B250	Lake Road, No.1,    Batticaloa	0.9
+B251	Lewaya Road	3.54
+B252	Lindula to end of    Agras Road	22.24
+B253	Lowland - Panaliya	1.8
+B254	Mabima - Sapugaskanda	3.22
+B255	Madampe - Chettiyar    Street	0.31
+B256	Madawala - Rajawella	8.21
+B257	Madulkelle -    Kabaragala - Kandenuwara	20.92
+B258	Mahakeliya -    Katupotha	12.87
+B259	Main Access to Gam    Udawa 87	6.39
+B260	Main Road to    Vettappalai	3.62
+B261	Main Street, Negombo	0.43
+B262	Makola - Udupila	8.85
+B263	Malabe - Kaduwela	5.63
+B264	Mallawapitiya -    Rambodagalla - Keppetigala	34.59
+B265	Malwala - Carney	14.48
+B266	Malwattha -    Chadayantalawa	5.63
+B267	Mampe - Kottawa	6.23
+B268	Manipay - Kaithady	13.68
+B269	Mankulam -    Vellankulam	37.81
+B270	Mannar Market Street    - Sebastian Hospital	2.33
+B271	Maradagahamulla -    Badalgama	7.64
+B272	Marawila - Udubaddawa	19.87
+B273	Maskeliya - Upcot	8.7
+B274	Matale -    Illukkumbura-Pallegama	46.8
+B275	Matara - Hakmana	24.14
+B276	Mathagal -    Pandatherippu - Sambiliturai	6.61
+B277	Maviddapuram -    Keeramalai	2.94
+B278	Mawanella - Aranayake    - Horawela	14.45
+B279	Mawanella -    Hemmaththagama - Singhapitiya	25.8
+B280	Mawathagama -    Barandara	8.25
+B281	Mawathagama -    Muwankanda	8.85
+B282	Medawachchiya -    Horowopotana	37.81
+B283	Medawachchiya -    Kebitigollewa	25.74
+B284	Meddewatte -    Kekanadure - Yatiyana	14.64
+B285	Meepe - Ingiriya	18.09
+B286	Middeniya - Panamure	13.27
+B287	Minneriya -    Hingurakgoda (Airport Road)	8.85
+B288	Minuwangoda - Gampaha    - Miriswatte	13.27
+B289	Minuwangoda -    Miriswatte - Katana	12.63
+B290	Mirigama - Nalla	8.21
+B291	Mirihana - Udahamulla    - Nawinna	3.38
+B292	Miriswatte -    Waturugama	10.06
+B293	Moneragala Town Road	0.45
+B294	Moragaswewa -    Ilukwewa	10.06
+B295	Moratuwa -    Piliyandala	4.83
+B296	Puliyankulam-Mullaittivu	42.68
+B297	Mullaitivu - Kokkilai	36.2
+B298	Munai Street,    Batticaloa	0.43
+B299	Murunkan -    Chilawathurai	15.29
+B300	Muttetugala -    Hiripitiya	18.5
+B301	Nadukudai Road	2.41
+B302	Nagoda - Gallassa    Colony Road	3.7
+B303	Nagoda - Gonadeniya	3.62
+B304	Nagoda - Kalawellawa    - Bellapitiya	55.51
+B305	Nallur - Oddumadam	2.41
+B306	Nanu Oya - Hendeniya	2.41
+B307	Narahenpita - Nawala    - Nugegoda	3.22
+B308	Narammala - Dankotuwa	45.25
+B309	Narandeniya - Hakmana	11.67
+B310	Nartupana -    Warakagoda	3.22
+B311	Nattarampotha -    Yakgahapitiya	2.83
+B312	Naula - Elahera -    Pallegama - Hettipola	64.37
+B314	Naval Camp Road	0.8
+B315	Navanturai -    Oddumadam	1.21
+B316	Navinna -    Boralesgamuwa	2.41
+B317	Nawalapitiya -    Dimbula	31.18
+B318	Nawalapitiya -    Dolosbage	19.71
+B319	Nawalapitiya -    Ginigathena	12.07
+B320	Nayapamulla -    Unanwitiya - Nagoda	12.07
+B321	Negombo - Aluthepola	14.67
+B322	Negombo - Giriulla	37.81
+B323	Negombo - Kadirana	3.62
+B324	Negombo - Mirigama	30.57
+B325	Nelukkulam -    Neriyakulam	21.72
+B326	Nikaweratiya -    Moragollagama - Siyambalangamuwa	48.51
+B327	Nilaweli Salt Office    Road	1.64
+B328	Norton - Maskeliya	16.8
+B329	Norwood -    Bogowantalawa - Campion	16.89
+B330	Norwood - Upcot	12.71
+B331	Nuwara Eliya Town    Road	2.41
+B332	Nuwara Eliya - Uda    Pussellawa	46.0
+B333	Oddamavadi - Vahaneri	9.25
+B334	Oddusudan -    Nedunkerny	10.86
+B335	Old Bazaar Road,    Maharagama	0.8
+B336	Old Kandy Road	0.69
+B337	Old Road, Kattankudy	7.67
+B338	Old Tangalle Road,    Matara	2.41
+B339	Olugantota -    Pinnawala - Bogowantalawa	35.14
+B340	ORR's Hill Road	3.38
+B341	Outer Circular Road    (Nochchiyagama)	9.78
+B342	Padaviya - Galkulama	14.67
+B343	Padaviya - Parakrama    Pura (Bandaranayake Mawatha)	10.06
+B344	Padiruppu - Vellaveli	6.03
+B345	Pagoda - Pitakotte	1.61
+B346	Palapathwela -    Galewela	28.16
+B347	Palathoppu - Seruwila    Road	7.82
+B348	Palavi - Kalladi	7.24
+B349	Palavi - Kalpitiya	40.23
+B350	Pallang Oya -    Inginiyagala	12.87
+B351	Pallebedde -    Medaganoya - Weligepola	12.47
+B352	Pallimunai Road	1.29
+B353	Palugama - Boralande    - Haputale	26.55
+B354	Panagoda - Henpita	6.44
+B355	Panama - Kumbukkana	17.7
+B356	Pannala -    Kuliyapitiya	16.25
+B357	Paranthan - Poonakary	25.74
+B358	Parussella -    Panapitiya	5.12
+B359	Passara -    Hingurukaduwa - Pelwatte	30.17
+B360	Passara - Madulsima -    Metigahatenna	29.93
+B361	Pasyala - Attanagalla	6.84
+B362	Pattanwila - Makola	1.8
+B363	Pelawatta -    Kankotayawatta - Tinniyawela - Morawaka	53.18
+B364	Peradeniya - Deltota    - Rikiligaskada	52.13
+B365	Peradeniya -    Halloluwa - Katugastota	10.61
+B366	Perkar Road	2.41
+B367	Piliyandala -    Maharagama	7.37
+B368	Pitakotte -    Talawatugoda	4.23
+B369	Pitiyagedera -    Wattegama - Iriyagastenne	5.15
+B370	Point Pedro East    Coast Road	3.94
+B371	Point Pedro -    Maruthankerny	28.96
+B372	Police Station    Circular Road, Badulla	1.29
+B373	Poonewa -    Kidavaramkulama	3.22
+B374	Potuvil - Panama	17.7
+B375	Power House Road -    Thirugnanasampauthar	1.61
+B376	Prison Road, Tangalle	0.23
+B377	Pujapitiya -    Alawatugoda	8.05
+B378	Puliyadi - Irakkamam    Madu	10.86
+B379	Puttalam -    Marichchikadai	65.97
+B380	Puttur - Kantharoday	12.47
+B381	Radaella Short Cut    Road	3.38
+B382	Ragama - Kandana	4.55
+B383	Rakwana - Bulutota	1.13
+B384	Rambukkana -    Katupitiya	9.81
+B385	Rambukkana -    Mawanella	16.89
+B386	Ranatunga Mawatha	0.11
+B387	Ranna - Udayala -    Weeraketiya	15.69
+B388	Ratmalana - Borupona	1.93
+B389	Ratmalana - Mirihana	8.05
+B390	Ratnapura - Palawela    - Karawita	22.53
+B391	Ratnapura -    Wewelwatte	28.0
+B392	Rattota - Gammaduwa	11.26
+B393	Ridigama - Liniwehera	2.01
+B394	Roads to Kataragama    Planning Scheme	14.48
+B395	Roads to Saltern    & Town Roads	8.88
+B396	Roehampton -    Diyatalawa - Bandarawela	9.9
+B397	Sacred City Road,    Nochchiyagama	17.68
+B398	Sandilipay -    Senthankulam	7.72
+B399	Sangilithoppu -    Chemmny	3.43
+B400	Seeduwa - Udugampola	11.62
+B401	Siyambalape -    Galwalkada	4.42
+B402	Soranapattu -    Thalayadi	7.48
+B403	South Coast Road    (Thallady - Arrippu - Marrichchkadai)	46.66
+B404	Sri Ariyavilasa Road,    Horana	0.5
+B405	Sri Somananda    Mawatha, Horana	0.85
+B406	Stony Cliff -    Kotagala	6.31
+B407	St. Joseph's Street,    Negombo	2.82
+B408	Talduwa -    Meewitigammana	18.9
+B409	Talgodapitiya -    Yatawatte - Dombawala	29.36
+B410	Tangalle -    Weeraketiya	14.48
+B411	Tawalama - Neluwa -    Batuwangala	9.65
+B412	Tawalantenne -    Talawakela  	33.36
+B413	Tennekumbura -    Rikiligaskada - Ragala	72.67
+B414	Thavadi - Suthumalai	2.62
+B415	Thihagoda -    Kamburupitiya - Mawarala - Kotapola	67.58
+B416	Thihariya -    Warapalana	5.39
+B417	Thoandamanaru -    Vallai - Tunnalai	12.87
+B418	Thondamanaru -    Udupiddy	2.7
+B419	Thoppu - Madampe	26.95
+B420	Thumpalai - Valalai	4.83
+B421	Tiruwanaketiya -    Agalawatte	67.98
+B422	Tissa - Kirinde	13.11
+B423	Tonigala - Kalawewa -    Galewela	45.78
+B424	Trincomalee -    Pulmoddai	55.11
+B425	Tudella - Pamunugama    - Talahena - Negombo	20.11
+B426	Tummodera -    Puwakpitiya	9.65
+B427	Udawalawe -    Tanamalwila	35.4
+B428	Udawela -    Kumbukgahamulla	1.93
+B429	Udugama - Hiniduma	11.26
+B430	Udugampola -    Divulapitiya	14.88
+B431	Ulapane - Pussellawa	22.53
+B432	Uraliyagara -    Panirendawa - Villattewa	14.48
+B433	Urani Road	3.22
+B434	Urapola - Waturugama	7.08
+B435	Urugodawatte -    Ambatale	8.05
+B436	Vaddukoddai - Moolai	2.82
+B437	Vallai - Telippalai -    Araly	27.43
+B438	Vallai-udupiddy -    Velvettiturai	5.63
+B439	Varapathanchenai -    Deegawapi	7.64
+B440	Veeragoda Central    Camp Road	16.09
+B441	Velani - Kayts	6.77
+B442	Velikulam - Mamaduwa	8.05
+B443	Veyangoda -    Banduragoda	8.62
+B444	Veyangoda - Kaleliya	7.45
+B445	Veyangoda -    Ruwanwella	32.18
+B446	Vijitha Road	0.24
+B447	Vilgam Vihara Road	4.18
+B448	Villu Road	0.9
+B449	Wadduwa - Morontuduwa	5.28
+B450	Walasmulla -    Weeraketiya	8.05
+B451	Walgama - Aturugiriya	1.77
+B452	Walgama - Diyagama	7.06
+B453	Walpola - Mailawalana	9.25
+B454	Wandurambe - Ethumale    - Yakkatuwa	36.2
+B455	Wandurambe - Kottawa	9.73
+B456	Warakapola -    Kandalama 	10.86
+B457	Warakapola -    Ruwanwella	22.53
+B458	Waskaduwa -    Bandaragama	12.07
+B459	Wattala - Hekitta	1.56
+B460	Wattala - Mahara	7.24
+B461	Wattegama -    Kandenuwara - Wariyapola	30.65
+B462	Wattegama - Matale	13.0
+B463	Weeraketiya -    Middeniya	12.87
+B464	Weerawila - Tissa -    Kataragama	23.89
+B465	Weligama - Kananke	9.65
+B466	Weligama -    Telijjawila	11.26
+B467	Weligepola -    Handagiriya	10.06
+B468	Welihena - Katana	5.02
+B469	Welikada -    Kohilawatta	6.03
+B470	Welikada - Nawala	2.57
+B471	Welimada - Kirklees	17.83
+B472	Weliweriya -    Kirindiwela	12.87
+B473	Wennappuwa -    Kirimetiyana	5.63
+B474	Weragantota -    Randenigala	22.2
+B475	Bulugolla - Dombemada    - Wahawa	13.64
+B476	Weweldeniya -    Mirigama	6.44
+B477	Wewelwatte -    Agarsland - Uwella	9.49
+B478	Wilakatupotha -    Ganewattha - Kumbukgete	21.69
+B479	Yakkala - Radawana	12.87
+B480	Yakkalamulla -    Ketanwila	14.48
+B481	Yatadolawatta Road	2.82
+B482	Yatiyantota -    Poonagala - Meenagala	24.14
+B483	Sammanthurai -    Malkampiddi - Deegawapiya	14.9
+B484	Handungamuwa -    Hettipola - Hasalaka	45.05
+B485	Walasmulla - Katuwana    - Middeniya	26.15
+B486	Embilipitiya -    Middeniya	14.48
+B487	Atugala Road,    Kurunegala	1.7
+B488	Polonnaruwa -  Tambala - Sungawila - Somawathiya	42.68
+B489	Roads within    President's pavilion Kandy	0.75
+B490	Atabage - Ulapane    Road 	7.5
+B491	Kotmale Dam Crest-    Harangala Road	1.4
+B492	Kandehandiya -    Adikarigama - Randenigala - Loggal Oya	54.4
+B493	Moragahamula -    Victoriya Damtop	8.4
+B494	Victoriya Damtop -    Adikarigama	2.3
+B495	Edandawela -    Kahahengama	2.0
+B496	Thanamalwila -    Hambegamuwa(Thanamalwila - Bodagama)	5.5
+B497	51st Mile post -    Ulhitiyawa	8.04
+B498	Barrier Junction -    Girandura Kotte	7.0
+B499	Kirinda - Palatupana    - Yala	29.0
+B500	Tissa - Akurugoda	1.1
+B501	Andarawewa -    Balaluwewa( Jeya Mawatha )	52.75
+B502	Manampitiya -    Aralaganwila - Maduru oya	33.0
+B503	Makandura - Badalgama	4.5
+B504	Maharagama - Pamunuwa    - Thalapathpitiya	2.4
+B505	Phala Eriyagama -    Penideniya	0.86
+B506	Nawalapitiya -    Harangala	11.52
+B507	Rendapola - Ambewela	8.24
+B508	Welimade - Borelanda    - Ohiya - Horton Plains 	32.47
+B509	Kuttampokuna -    Galpalama	3.22
+B510	Kesbewa -    Kosgashandiya	1.7
+B511	Keerthibandrapura -    Naranthalawa	4.42
+B512	Blackpool Ambewela    Pattipola Horton Plains	28.16
+B513	Kumbukkana    Okkampitiya maligawila	15.2
+B514	Internal Roads in ith    Sacred City Mahiyangana	2.35
+B515	Road Parallel to    halpanu Ela	1.1
+B516	Etalai - Talawila    (Jubily Mawatha)	4.7
+B517	Dehiattakandiya -    Aralaganwila	21.1
+B518	Sangaraja Mawatha -    Kandy	1.76
+B519	Yatinuwara Veediya -    Kandy	0.6
+B520	Kande Veediya - Kandy	0.11
+B521	Mosque Road - Kandy	0.38
+B522	Buttala - Helagama -    Okkampitiya	9.0
+B523	Elpitiya By Pass	0.58
+B524	Beach Road Matara(    Matara By Pass)	2.4
+B525	Dikwella -    Wewurukannala	1.87
+B526	Baddegama - Halpatota	1.65
+B527	Bibile - Pitakumbura    - Namal Oya - Inginiyagala	60.25
+B528	Bodagma - Hambegamuwa    - Kaltota	48.2
+B529	Polonnaruwa - New    Town Road	3.6
+B530	Udahamulla -    Thalapathpitiya	2.06
+B531	Parliament Drive	0.72
+B532	Approach Road to Sri    Jayawardenepura Parliament	0.43
+B533	Pelawatta Access Road	0.83
+B534	Nawala - Pagoda Link    Road	0.27
+B535	Nilwala By pass 	1.83
+B536	Kamburupitiya -    Kirinda	9.2
+B537	Barigama - Halloluwa	5.76
+B538	Kahatagasdigiliya -    Rathmalgahaweewa - Kivulekade	24.32
+B539	Nelundeniya - Alawwa	8.2
+B540	Nelundeniya - Tuntota    - Galapitamada	14.0
+B541	Thampalakamam -    Kinniya	15.6
+B542	Lady Manning Drive	1.0
+B543	Liyods Avenu	0.42
+B544	Moragolla - Bellana	9.83
+B545	Approach Road to    National Food Stores, Rathmalana(Kaldemulla Rd)	1.37
+B546	New Nuga Road	1.3
+B547	Kawdana Attidiya	2.5
+B548	Ranna    Angunakolapelessa Vatiya	16.14
+B549	Embilipitiya -    Moraketiya - Kiriibbanara - Uda Mauara	16.82
+B550	Dharmashoka Mawatha	2.76
+B551	Luvi Peris Mawatha	0.86
+B552	Polonnaruwa -    Hingurakgoda 	13.65
+B553	Old Kesbewa Road	0.85
+B554	Ragama    Karagahamuna  (Ragama to Thewattha    section)	2.0
+B555	Access road to    Getabaru Temple	1.7
+B556	Madatugama Pubbogama    Andiyagala	13.26
+B557	Circular Road -    Devinuwara	0.43
+B558	Kosgoda Uragaha Road	6.0
+B559	Sinhasana Road	0.82
+B560	Council Avenue ,    Dehiwala	0.14
+B561	Dambulla Kandalama	0.8
+B562	Mirijjawila    Sooriyawewa	23.3
+B563	Sooriyawewa    Padalangala	12.0
+B564	Otappuwa Ihalawewa	13.8
+B565	Walasmulla By Pass	0.37
+B566	Nakulugamuwa    Kudawella Moraketiara 	3.9
+B567	Weligaththa    Lunugamwehera	23.6
+B568	Hurigaswewa    Kalankuttioya Siyambalangamuwa 	14.12
+B569	Access to Gampaha    Railway Station (Queen Mary's Road)	1.16
+B570	Mudungoda Gampaha    (Orutota Road)	5.15
+B571	Approach Road to    College of Education - Addalaichenai	1.15
+B572	Addalachenai    Alankulam	9.75
+B573	Akkaraipattu   Deegavapi Ambalatharu	23.0
+B574	Flood ProtectionRoad,    Akkaraipattu	2.13
+B575	Kulavadi Central    Camp 	5.23
+B576	By Pass Road to    Pallikkudiyiruppu village on Akkaraipattu Varapathanchenai Road	1.34
+B577	Belaganwewa Hembarawa    Wilgamuwa 	11.63
+B578	Dorape Hiyare	8.6
+B579	Polonnaruwa - New    Town - Kaduruwela (Nidahas Swarna Jayanthoi Mawatha)	4.61
+B580	Nikatupitiya Junction    to Mapakadawewa Junction	8.32
+B581	Welimada By Pass	0.08
+B582	Gomburuoya -    Balapokuna 	8.5
+B583	Mawanella By Pass	1.9
+B584	Lathpandura Molkawa	11.78
+B585	Kaluwamodara    Kandevihara 	1.09
+B586	Park Road Matale	0.33
+B587	Sooriyawewa    Hathporuwa Moraketiya 	13.6
+B588	Dedugala Dolosbage	12.41
+B589	Hidellana Karapincha    (Approach Road to Tea Research Institute -Law Country Region)	4.1
+B590	Udayagiri    Rajamahavihara Road	1.1
+B591	Uyanwatta Polgolla    Dam 	0.6
+B592	Hettimulla Deewala    Ussapitiya	12.6
+B593	Pambahinna Kumbalgama    Rajawaka Kapugala	28.42
+B594	Galle Port Access	5.2
+B595	Hunnadeniya Rathmale    Radampola Walasgala	12.3
+B596	Uswetakeiyawa    Epamulla Pamunugama	8.05
+B597	 Kandawala Katunayake	4.5
+B598	Seeduwa Katunayake	3.9
+B599	Mabopitiya    Degalaeriya	3.71
+B600	Meepitiya Ekiriyagala    Paragammana	5.1
+B601	Kegalle    Siyambalapitiya Dewalegama	4.4
+B602	Morontota Arandara	8.3
+B603	Magmmana Kurupettha    Daigala Gurugalla	12.0
+B604	Paragammana Dikella    Atugoda Wanduradeniya	14.6
+B605	Alawathura Yatapana    Kotiyakumbura	6.15
+B606	Katuwana -    Rukmalpitiya - Hulankanda - Heegoda	9.0
+B607	Bengamuwa -    Molokgamuwa - Galdola	9.5
+B608	Weera Maddumabandara    Mawatha	0.14
+B609	Hiripitiya -    Galtemwewa	14.9
+B610	Melsiripura - Rambe	12.7
+B611	Thitthawella -    Gonagama	15.27
+B612	Ramboda - Pusulpitiya	2.38
+B613	Kothmale New Town    Road	1.05
+B614	Battuluoya - Udappuwa    - Andimunai 	9.23
+B615	Dambulla - Bakamuna -    Kalagahawela	32.48
+B616	Nochchiyagama -    Kukulkatuwa	19.53
+B617	Minneriya - Gal Oya	14.54
+B618	Mollipothana -    Soorangal	14.0
+B619	Sardhapura - Kanniya	5.0
+B620	Kanniya -    Illuppaikulam	4.0
+B621	Atabage -    Dunukeulla 	7.62
+B622	Hungama - Thalawa -    Middeniya	25.37
+B623	Medamulana -    Gonadeniya - Debokkawa	11.72
+B624	Thalawa - Dambarella    - Hingura	6.6
+B625	Ambakolawewa -    Morayaya - Gonadeniya	4.23
+B626	Polonmaruwa -    Beliatta 	6.6
+B627	Dammulla -    Weeraketiya	10.1
+B628	Tangalle -    Kadurupokuna - Beliatta	8.76
+B629	Walasmulla -    Julampitiya 	13.1
+B630	Beliatta - Kirinda	13.87
+B631	Hambantota -    Gonnoruwa - Meegahajandura	30.3
+B632	Sapugaskanda Oil    Refinery Junction - Biyagama Free Trade Zone (Samurdhi Mawatha)	6.77
+B633	Access Road to Ja-Ela    Interchange	2.57
+B634	Access Road to    Peliyagoda Interchange	2.1
+B635	Access Road to Matara	1.34
+B636	Akuressa By pass	1.76
+B637	Pelena-Polwatta-Denipitiya	2.1
+B638	Sri Maha Bodhi    Access 	3.1
+B639	Piliyandala By Pass	2.865
+B640	Nainamadama-Iranawila-Chilaw	31.66
+B641	Kadawatha By pass	1.8
+B642	Access road to Defence Headquarters Pelawatta (From Denzil Kobbekaduwa Mawatha, Koswatta to Defence Headquarters Pelawatta)	1.255
+B643	Kegalle Bypass	4.4
+B644	Kelanimulla-Angoda-Koswatta	4.567
+B645	Pelawatta-Akuregoda-Pothuarawa	4.074
+E001	Southern Expressway	200.451
+E002	Outer Circular Highway	28.867
+E003	Colombo-Katunayake Expressway	25.8
+E006	Andarawewa - Hambantota	16.558
