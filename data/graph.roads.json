@@ -5,36 +5,62 @@
   ],
   "AA001": [
     "Colombo",
+    "Peliyagoda",
+    "Yakkala",
+    "Ambepussa",
+    "Kegalle",
+    "Peradeniya",
     "Kandy"
   ],
   "AA002": [
     "Colombo",
+    "Kollupitiya",
+    "Panadura",
     "Galle",
+    "Matara",
+    "Nonagama",
     "Hambantota",
     "Wellawaya"
   ],
   "AA003": [
     "Peliyagoda",
+    "Ja-Ela",
     "Puttalam"
   ],
   "AA004": [
     "Colombo",
+    "Avissawella",
     "Ratnapura",
+    "Pelmadulla",
+    "Beragala",
     "Wellawaya",
+    "Moneragala",
+    "Siyambalanduwa",
+    "Pottuvil",
+    "Karativu",
     "Batticaloa"
   ],
   "AA005": [
     "Peradeniya",
+    "Nuwara Eliya",
+    "Hali-Ela",
     "Badulla",
+    "Passara",
+    "Padiyatalawa",
+    "MahaOya",
     "Chenkaladi"
   ],
   "AA006": [
     "Ambepussa",
+    "Polgahawela",
     "Kurunegala",
+    "Dambulla",
+    "Habarana",
     "Trincomalee"
   ],
   "AA007": [
     "Avissawella",
+    "Karawanella",
     "Hatton",
     "Nuwara Eliya"
   ],
@@ -45,18 +71,36 @@
   ],
   "AA009": [
     "Kandy",
+    "Katugastota",
+    "Dambulla",
+    "Maradankadawela",
+    "Galkulama",
+    "Mihintale",
+    "Rambewa",
+    "Medawachchiya",
+    "Vavuniya",
+    "Mankulam",
+    "Paranthan",
+    "Pachchilapalli",
+    "Navakkuli",
     "Jaffna"
   ],
   "AA010": [
     "Katugastota",
     "Kurunegala",
+    "Padeniya",
     "Puttalam"
   ],
   "AA011": [
-    "Maradankadawela Habarana Tirikkondiadimadu"
+    "Maradankadawela",
+    "Habarana",
+    "Tirikkondiadimadu"
   ],
   "AA012": [
     "Puttalam",
+    "Anuradhapura",
+    "Mihintale",
+    "Horowopotana",
     "Trincomalee"
   ],
   "AA013": [
@@ -65,30 +109,36 @@
   ],
   "AA014": [
     "Medawachchiya",
+    "Parayanalankulam",
     "Mannar",
     "Talaimannar"
   ],
   "AA015": [
     "Batticaloa",
+    "Chenkaladi",
     "Tirikkondiadimadu",
     "Trincomalee"
   ],
   "AA016": [
     "Beragala",
+    "Kumbalwela",
     "Hali-Ela"
   ],
   "AA017": [
     "Galle",
+    "Akuressa",
     "Deniyaya",
     "Madampe"
   ],
   "AA018": [
     "Pelmadulla",
+    "Madampe",
     "Embilipitiya",
     "Nonagama"
   ],
   "AA019": [
-    "Polgahawela -Kegalle"
+    "Kegalle",
+    "Polgahawela"
   ],
   "AA020": [
     "Anuradhapura",

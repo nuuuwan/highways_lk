@@ -6,13 +6,27 @@ GRAPH_ROADS_FILE = 'data/graph.roads.json'
 MAP_FILE = 'data/map.svg'
 
 
-PLACE_RADIUS = 6
-PLACE_FILL = 'white'
-PLACE_STROKE = 'black'
-PLACE_STROKE_WIDTH = 3
+STYLE_PLACE_CIRCLE = dict(
+    r=6,
+    fill='white',
+    stroke='red',
+    stroke_width=3,
+)
 
-ROAD_FILL = 'none'
-ROAD_STROKE = 'black'
-ROAD_STROKE_WIDTH = 2
+STYLE_PLACE_TEXT = dict(
+    fill='black',
+    stroke='none',
+    font_size=9,
+    text_anchor='start',
+)
 
-WIDTH, HEIGHT, PADDING = 450, 750, 10
+STYLE_ROAD_LINE = dict(
+    fill='none',
+    stroke='red',
+    stroke_width=3,
+)
+
+
+WIDTH = 1200
+HEIGHT = WIDTH
+PADDING = 50

@@ -1,16 +1,49 @@
 from utils import filex, jsonx
 
 from __constants import (GRAPH_PLACES_FILE, GRAPH_ROADS_FILE, HEIGHT, MAP_FILE,
-                         PADDING, PLACE_FILL, PLACE_RADIUS, PLACE_STROKE,
-                         PLACE_STROKE_WIDTH, ROAD_FILL, ROAD_STROKE,
-                         ROAD_STROKE_WIDTH, WIDTH)
+                         PADDING, STYLE_PLACE_CIRCLE, STYLE_PLACE_TEXT,
+                         STYLE_ROAD_LINE, WIDTH)
 from _geo import get_func_transform
 from _xmlx import _, render_xml
+
+
+def get_reverse_index(xs):
+    return dict(
+        list(
+            map(
+                lambda x: [x[1], x[0]],
+                enumerate(sorted(xs)),
+            )
+        )
+    )
+
+
+def transform_histogram(graph_places_index):
+    lats, lngs = [], []
+    for place_id, lat_lng in graph_places_index.items():
+        lat, lng = lat_lng
+        lats.append(lat)
+        lngs.append(lng)
+
+    print(len(lats))
+    print(len(lngs))
+
+    lats_index = get_reverse_index(lats)
+    lngs_index = get_reverse_index(lngs)
+
+    trans_graph_places_index = {}
+    for place_id, lat_lng in graph_places_index.items():
+        lat, lng = lat_lng
+        latx, lngx = lats_index[lat], lngs_index[lng]
+
+        trans_graph_places_index[place_id] = [latx, lngx]
+    return trans_graph_places_index
 
 
 def draw():
 
     graph_places_index = jsonx.read(GRAPH_PLACES_FILE)
+    graph_places_index = transform_histogram(graph_places_index)
 
     latlng_list = list(graph_places_index.values())
     func_transform = get_func_transform(WIDTH, HEIGHT, PADDING, latlng_list)
@@ -27,12 +60,18 @@ def draw():
                     dict(
                         cx=x,
                         cy=y,
-                        r=PLACE_RADIUS,
-                        fill=PLACE_FILL,
-                        stroke=PLACE_STROKE,
-                        stroke_width=PLACE_STROKE_WIDTH,
-                    ),
-                )
+                    )
+                    | STYLE_PLACE_CIRCLE,
+                ),
+                _(
+                    'text',
+                    place_id,
+                    dict(
+                        x=x + STYLE_PLACE_TEXT['font_size'],
+                        y=y,
+                    )
+                    | STYLE_PLACE_TEXT,
+                ),
             ],
         )
 
@@ -66,10 +105,8 @@ def draw():
                         y1=y1,
                         x2=x2,
                         y2=y2,
-                        fill=ROAD_FILL,
-                        stroke=ROAD_STROKE,
-                        stroke_width=ROAD_STROKE_WIDTH,
-                    ),
+                    )
+                    | STYLE_ROAD_LINE,
                 )
             )
 
@@ -82,7 +119,11 @@ def draw():
         )
     )
 
-    svg = _('svg', rendered_roads + rendered_places)
+    svg = _(
+        'svg',
+        rendered_roads + rendered_places,
+        dict(width=WIDTH, height=HEIGHT),
+    )
     filex.write(MAP_FILE, render_xml(svg))
 
 
