@@ -120,10 +120,46 @@ CUSTOM_ROAD_OVERRIDE = {
     "AA033": ["Ja-Ela", "Ekala", "Gampaha", "Yakkala"],
     "AA034": ["Mankulam", "Mullaitivu"],
     "AA035": ["Paranthan", "Mullaitivu"],
+
+  "AB001": [
+    "Ampara",
+    "Inginiyagala"
+  ],
+  "AB002": [
+    "Anuradhapura",
+    "Anuradhapura -  Gewal 55 Bus Stop",
+  ],
+  "AB003": [
+    "Gampola",
+    "Gampola Bridge"
+  ],
+  "AB004": [
+    "Kaduwela Bridge"
+    "Biyagama Junction",
+  ],
+  "AB005": [
+    "AB5+B368",
+    "Sri Jayewardenepura General Hospital",
+  ],
+  "AB006": [
+    "Avissawella",
+    "Avissawella Police Station",
+  ],
+  "AB007": [
+    "Balangoda By Pass"
+  ],
+  "AB008": [
+    "Bandarawela By Pass"
+  ],
+  "AB009": [
+    "Canada Friend-ship Road"
+  ],
+
     "AB010": [
         "Modara",
         "Peliyagoda",
         "Kaduwela",
+        "Kaduwela Bridge",
         "Hanwella",
     ],
     "AB011": ["Idama", "Walana"],

@@ -9,6 +9,15 @@ from data.CUSTOM_PLACE_LAT_LNG import CUSTOM_PLACE_LAT_LNG
 from data.CUSTOM_ROAD_OVERRIDE import CUSTOM_ROAD_OVERRIDE
 
 
+def filter_road(road):
+    if road['road_id'][:3] in ['AA0', 'E00']:
+        return True
+    if road['road_id'][:4] in ['AB00', 'AB01']:
+        return True
+
+    return False
+
+
 def round_x(x):
     return round(x, 6)
 
@@ -74,15 +83,6 @@ def add_latlng(gmaps, place):
         [lat, lng, formatted_address] = result
 
     return [round_x(lat), round_x(lng)]
-
-
-def filter_road(road):
-    if road['road_id'][:3] in ['AA0', 'E00']:
-        return True
-    if road['road_id'][:4] in ['AB01']:
-        return True
-
-    return False
 
 
 def build_graph(gmaps):
