@@ -17,6 +17,9 @@
   "AA002": [
     "Colombo Fort",
     "Kollupitiya",
+    "Dehiwala",
+    "Idama",
+    "Walana",
     "Panadura",
     "Galle",
     "Matara",
@@ -34,8 +37,10 @@
     "Colombo Fort",
     "Colombo Public Library",
     "Kottawa",
+    "Hanwella",
     "Avissawella",
     "Ratnapura",
+    "Ratnapura - Main Street",
     "Pelmadulla",
     "Beragala",
     "Wellawaya",
@@ -47,6 +52,7 @@
   ],
   "AA005": [
     "Peradeniya",
+    "Gampola",
     "Nuwara Eliya",
     "Hali-Ela",
     "Badulla",
@@ -221,6 +227,50 @@
     "Paranthan",
     "Mullaitivu"
   ],
+  "AB010": [
+    "Modara",
+    "Peliyagoda",
+    "Kaduwela",
+    "Hanwella"
+  ],
+  "AB011": [
+    "Idama",
+    "Walana"
+  ],
+  "AB012": [
+    "Kollupitiya",
+    "Dehiwala"
+  ],
+  "AB013": [
+    "Gampola",
+    "Nawalapitiya"
+  ],
+  "AB014": [
+    "Ratnapura",
+    "Ratnapura - Main Street"
+  ],
+  "AB015": [
+    "Diyatha Uyana",
+    "Parliament"
+  ],
+  "AB016": [
+    "Jaffna",
+    "Kankesanturai"
+  ],
+  "AB017": [
+    "Jaffna",
+    "Manipay",
+    "Karainagar"
+  ],
+  "AB018": [
+    "Jaffna",
+    "Palali"
+  ],
+  "AB019": [
+    "Jaffna",
+    "Pannai",
+    "Kayts"
+  ],
   "E001": [
     "Kottawa",
     "Gelanigama",
@@ -232,6 +282,7 @@
   "E002": [
     "Kerawalapitiya",
     "Kadawatha",
+    "Kaduwela",
     "Kottawa"
   ],
   "E003": [

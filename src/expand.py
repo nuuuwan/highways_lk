@@ -68,6 +68,7 @@ def add_latlng(gmaps, place):
         search_text = place_id + ', Sri Lanka'
         result = get_location_info(gmaps, search_text)
         if result is None:
+            print('No result for ', place_id)
             return []
 
         [lat, lng, formatted_address] = result
@@ -75,12 +76,25 @@ def add_latlng(gmaps, place):
     return [round_x(lat), round_x(lng)]
 
 
+def filter_road(road):
+    if road['road_id'][:3] in ['AA0', 'E00']:
+        return True
+    if road['road_id'][:4] in ['AB01']:
+        return True
+
+    return False
+
+
 def build_graph(gmaps):
-    roads = tsv.read(ROADS_FILE)
+    roads = list(
+        filter(
+            filter_road,
+            tsv.read(ROADS_FILE),
+        )
+    )
     graph_roads_index = {}
     for road in roads:
-        if 'AA0' != road['road_id'][:3] and 'E00' != road['road_id'][:3]:
-            continue
+
         locations = list(
             map(
                 lambda location: re.sub(r'\s+', ' ', location.strip()),

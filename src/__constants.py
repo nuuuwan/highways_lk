@@ -27,6 +27,7 @@ STYLE_ROAD_LINE = dict(
 
 STYLE_ROAD_LINE_STROKE_MAP = dict(
     AA='red',
+    AB='orange',
     E0='purple',
 )
 
