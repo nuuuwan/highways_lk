@@ -9,7 +9,7 @@ MAP_FILE = 'data/map.svg'
 STYLE_PLACE_CIRCLE = dict(
     r=6,
     fill='white',
-    stroke='red',
+    stroke='gray',
     stroke_width=3,
 )
 
@@ -22,8 +22,12 @@ STYLE_PLACE_TEXT = dict(
 
 STYLE_ROAD_LINE = dict(
     fill='none',
-    stroke='red',
     stroke_width=3,
+)
+
+STYLE_ROAD_LINE_STROKE_MAP = dict(
+    AA='red',
+    E0='purple',
 )
 
 

@@ -79,7 +79,7 @@ def build_graph(gmaps):
     roads = tsv.read(ROADS_FILE)
     graph_roads_index = {}
     for road in roads:
-        if 'AA' not in road['road_id']:
+        if 'AA0' != road['road_id'][:3] and 'E00' != road['road_id'][:3]:
             continue
         locations = list(
             map(

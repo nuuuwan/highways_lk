@@ -1,480 +1,554 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200">
   <g>
-    <line x1="79.72972972972973" y1="837.8378378378378" x2="183.7837837837838" y2="897.2972972972973" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="88.8235294117647" y1="787.6470588235295" x2="101.76470588235294" y2="800.5882352941177" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="101.76470588235294" y1="800.5882352941177" x2="205.2941176470588" y2="852.3529411764707" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="94.5945945945946" y1="822.9729729729729" x2="139.1891891891892" y2="748.6486486486486" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="139.1891891891892" y1="748.6486486486486" x2="228.3783783783784" y2="674.3243243243243" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="228.3783783783784" y1="674.3243243243243" x2="317.5675675675676" y2="614.8648648648648" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="317.5675675675676" y1="614.8648648648648" x2="406.7567567567568" y2="600.0" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="406.7567567567568" y1="600.0" x2="674.3243243243243" y2="585.1351351351352" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="674.3243243243243" y1="585.1351351351352" x2="718.918918918919" y2="570.2702702702703" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="75.88235294117646" y1="761.7647058823528" x2="166.47058823529412" y2="710.0" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="166.47058823529412" y1="710.0" x2="218.23529411764707" y2="671.1764705882352" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="218.23529411764707" y1="671.1764705882352" x2="282.94117647058823" y2="619.4117647058823" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="282.94117647058823" y1="619.4117647058823" x2="373.5294117647059" y2="554.7058823529412" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="373.5294117647059" y1="554.7058823529412" x2="451.17647058823525" y2="528.8235294117646" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="451.17647058823525" y1="528.8235294117646" x2="710.0" y2="515.8823529411766" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="710.0" y1="515.8823529411766" x2="748.8235294117646" y2="502.94117647058823" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="94.5945945945946" y1="822.9729729729729" x2="79.72972972972973" y2="837.8378378378378" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="79.72972972972973" y1="837.8378378378378" x2="154.05405405405406" y2="1001.3513513513514" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="154.05405405405406" y1="1001.3513513513514" x2="347.2972972972973" y2="1135.1351351351352" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="347.2972972972973" y1="1135.1351351351352" x2="614.8648648648648" y2="1150.0" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="614.8648648648648" y1="1150.0" x2="837.8378378378378" y2="1105.4054054054054" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="837.8378378378378" y1="1105.4054054054054" x2="941.891891891892" y2="1090.5405405405406" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="941.891891891892" y1="1090.5405405405406" x2="927.027027027027" y2="986.4864864864865" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="75.88235294117646" y1="761.7647058823528" x2="88.8235294117647" y2="787.6470588235295" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="88.8235294117647" y1="787.6470588235295" x2="179.41176470588235" y2="968.8235294117648" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="179.41176470588235" y1="968.8235294117648" x2="399.4117647058823" y2="1111.1764705882354" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="399.4117647058823" y1="1111.1764705882354" x2="658.2352941176471" y2="1150.0" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="658.2352941176471" y1="1150.0" x2="865.2941176470589" y2="1085.2941176470588" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="865.2941176470589" y1="1085.2941176470588" x2="968.8235294117648" y2="1072.3529411764707" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="968.8235294117648" y1="1072.3529411764707" x2="955.8823529411765" y2="942.9411764705883" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="139.1891891891892" y1="748.6486486486486" x2="109.45945945945945" y2="704.054054054054" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="109.45945945945945" y1="704.054054054054" x2="64.86486486486487" y2="332.4324324324325" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="166.47058823529412" y1="710.0" x2="140.58823529411765" y2="645.2941176470589" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="140.58823529411765" y1="645.2941176470589" x2="114.70588235294117" y2="580.5882352941176" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="114.70588235294117" y1="580.5882352941176" x2="62.94117647058823" y2="295.88235294117646" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="94.5945945945946" y1="822.9729729729729" x2="302.7027027027027" y2="778.3783783783784" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="302.7027027027027" y1="778.3783783783784" x2="436.4864864864865" y2="1016.2162162162163" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="436.4864864864865" y1="1016.2162162162163" x2="600.0" y2="1031.081081081081" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="600.0" y1="1031.081081081081" x2="822.972972972973" y2="956.7567567567568" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="822.972972972973" y1="956.7567567567568" x2="927.027027027027" y2="986.4864864864865" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="927.027027027027" y1="986.4864864864865" x2="1001.3513513513514" y2="882.4324324324325" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1001.3513513513514" y1="882.4324324324325" x2="1045.9459459459458" y2="852.7027027027027" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1045.9459459459458" y1="852.7027027027027" x2="1135.1351351351352" y2="927.027027027027" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1135.1351351351352" y1="927.027027027027" x2="1150.0" y2="481.0810810810811" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1150.0" y1="481.0810810810811" x2="1120.2702702702704" y2="406.7567567567568" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="75.88235294117646" y1="761.7647058823528" x2="101.76470588235294" y2="800.5882352941177" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="101.76470588235294" y1="800.5882352941177" x2="231.1764705882353" y2="904.1176470588235" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="231.1764705882353" y1="904.1176470588235" x2="360.5882352941176" y2="735.8823529411765" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="360.5882352941176" y1="735.8823529411765" x2="477.05882352941177" y2="981.7647058823529" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="477.05882352941177" y1="981.7647058823529" x2="645.2941176470588" y2="994.7058823529412" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="645.2941176470588" y1="994.7058823529412" x2="839.4117647058823" y2="917.0588235294117" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="839.4117647058823" y1="917.0588235294117" x2="955.8823529411765" y2="942.9411764705883" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="955.8823529411765" y1="942.9411764705883" x2="1020.5882352941176" y2="839.4117647058823" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1020.5882352941176" y1="839.4117647058823" x2="1059.4117647058824" y2="813.5294117647059" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1059.4117647058824" y1="813.5294117647059" x2="1137.0588235294117" y2="878.2352941176471" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1137.0588235294117" y1="878.2352941176471" x2="1150.0" y2="425.29411764705884" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1150.0" y1="425.29411764705884" x2="1124.1176470588234" y2="360.5882352941176" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="674.3243243243243" y1="585.1351351351352" x2="763.5135135135135" y2="793.2432432432432" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="763.5135135135135" y1="793.2432432432432" x2="882.4324324324325" y2="763.5135135135135" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="882.4324324324325" y1="763.5135135135135" x2="912.1621621621622" y2="733.7837837837837" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="912.1621621621622" y1="733.7837837837837" x2="956.7567567567568" y2="808.1081081081081" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="956.7567567567568" y1="808.1081081081081" x2="986.4864864864865" y2="466.21621621621625" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="986.4864864864865" y1="466.21621621621625" x2="1016.2162162162163" y2="436.48648648648646" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1016.2162162162163" y1="436.48648648648646" x2="1060.8108108108108" y2="391.89189189189193" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="710.0" y1="515.8823529411766" x2="787.6470588235294" y2="748.8235294117646" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="787.6470588235294" y1="748.8235294117646" x2="904.1176470588235" y2="722.9411764705883" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="904.1176470588235" y1="722.9411764705883" x2="930.0" y2="697.0588235294118" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="930.0" y1="697.0588235294118" x2="981.7647058823529" y2="774.7058823529412" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="981.7647058823529" y1="774.7058823529412" x2="1007.6470588235294" y2="412.35294117647067" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1007.6470588235294" y1="412.35294117647067" x2="1033.5294117647059" y2="386.47058823529414" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1033.5294117647059" y1="386.47058823529414" x2="1072.3529411764707" y2="347.64705882352945" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="317.5675675675676" y1="614.8648648648648" x2="377.02702702702703" y2="540.5405405405405" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="377.02702702702703" y1="540.5405405405405" x2="421.6216216216216" y2="451.3513513513514" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="421.6216216216216" y1="451.3513513513514" x2="733.7837837837837" y2="377.027027027027" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="733.7837837837837" y1="377.027027027027" x2="748.6486486486486" y2="347.2972972972973" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="748.6486486486486" y1="347.2972972972973" x2="971.6216216216216" y2="213.51351351351354" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="373.5294117647059" y1="554.7058823529412" x2="425.29411764705884" y2="477.0588235294117" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="425.29411764705884" y1="477.0588235294117" x2="464.11764705882354" y2="399.4117647058823" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="464.11764705882354" y1="399.4117647058823" x2="761.7647058823529" y2="334.70588235294116" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="761.7647058823529" y1="334.70588235294116" x2="774.7058823529412" y2="308.82352941176475" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="774.7058823529412" y1="308.82352941176475" x2="994.7058823529411" y2="192.35294117647058" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="302.7027027027027" y1="778.3783783783784" x2="362.16216216216213" y2="718.918918918919" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="362.16216216216213" y1="718.918918918919" x2="689.1891891891892" y2="867.5675675675675" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="689.1891891891892" y1="867.5675675675675" x2="763.5135135135135" y2="793.2432432432432" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="360.5882352941176" y1="735.8823529411765" x2="412.3529411764706" y2="658.2352941176471" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="412.3529411764706" y1="658.2352941176471" x2="722.9411764705883" y2="826.470588235294" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="722.9411764705883" y1="826.470588235294" x2="787.6470588235294" y2="748.8235294117646" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="154.05405405405406" y1="1001.3513513513514" x2="272.972972972973" y2="971.6216216216216" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="272.972972972973" y1="971.6216216216216" x2="436.4864864864865" y2="1016.2162162162163" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="179.41176470588235" y1="968.8235294117648" x2="244.11764705882354" y2="955.8823529411765" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="244.11764705882354" y1="955.8823529411765" x2="334.7058823529412" y2="930.0" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="334.7058823529412" y1="930.0" x2="477.05882352941177" y2="981.7647058823529" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="718.918918918919" y1="570.2702702702703" x2="704.0540540540541" y2="510.8108108108109" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="704.0540540540541" y1="510.8108108108109" x2="733.7837837837837" y2="377.027027027027" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="733.7837837837837" y1="377.027027027027" x2="644.5945945945946" y2="317.5675675675675" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="644.5945945945946" y1="317.5675675675675" x2="570.2702702702703" y2="302.7027027027027" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="570.2702702702703" y1="302.7027027027027" x2="555.4054054054054" y2="272.972972972973" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="555.4054054054054" y1="272.972972972973" x2="585.1351351351352" y2="258.10810810810807" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="585.1351351351352" y1="258.10810810810807" x2="525.6756756756756" y2="243.24324324324323" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="525.6756756756756" y1="243.24324324324323" x2="540.5405405405405" y2="183.78378378378375" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="540.5405405405405" y1="183.78378378378375" x2="495.945945945946" y2="139.18918918918914" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="495.945945945946" y1="139.18918918918914" x2="481.0810810810811" y2="109.45945945945945" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="481.0810810810811" y1="109.45945945945945" x2="451.35135135135135" y2="94.59459459459462" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="451.35135135135135" y1="94.59459459459462" x2="243.24324324324326" y2="64.86486486486484" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="243.24324324324326" y1="64.86486486486484" x2="213.51351351351352" y2="50.0" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="748.8235294117646" y1="502.94117647058823" x2="735.8823529411765" y2="451.17647058823536" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="735.8823529411765" y1="451.17647058823536" x2="761.7647058823529" y2="334.70588235294116" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="761.7647058823529" y1="334.70588235294116" x2="684.1176470588234" y2="282.9411764705883" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="684.1176470588234" y1="282.9411764705883" x2="606.4705882352941" y2="269.99999999999994" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="606.4705882352941" y1="269.99999999999994" x2="593.5294117647059" y2="244.11764705882356" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="593.5294117647059" y1="244.11764705882356" x2="619.4117647058824" y2="231.17647058823525" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="619.4117647058824" y1="231.17647058823525" x2="567.6470588235294" y2="218.23529411764707" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="567.6470588235294" y1="218.23529411764707" x2="580.5882352941177" y2="166.4705882352941" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="580.5882352941177" y1="166.4705882352941" x2="541.7647058823529" y2="127.64705882352938" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="541.7647058823529" y1="127.64705882352938" x2="528.8235294117646" y2="101.764705882353" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="528.8235294117646" y1="101.764705882353" x2="490.0" y2="88.8235294117647" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="490.0" y1="88.8235294117647" x2="295.88235294117646" y2="62.94117647058819" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="295.88235294117646" y1="62.94117647058819" x2="270.0" y2="50.0" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="704.0540540540541" y1="510.8108108108109" x2="421.6216216216216" y2="451.3513513513514" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="421.6216216216216" y1="451.3513513513514" x2="332.4324324324324" y2="421.6216216216216" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="332.4324324324324" y1="421.6216216216216" x2="64.86486486486487" y2="332.4324324324325" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="735.8823529411765" y1="451.17647058823536" x2="464.11764705882354" y2="399.4117647058823" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="464.11764705882354" y1="399.4117647058823" x2="386.47058823529414" y2="373.52941176470586" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="386.47058823529414" y1="373.52941176470586" x2="62.94117647058823" y2="295.88235294117646" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="644.5945945945946" y1="317.5675675675675" x2="748.6486486486486" y2="347.2972972972973" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="748.6486486486486" y1="347.2972972972973" x2="1031.081081081081" y2="362.16216216216213" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="684.1176470588234" y1="282.9411764705883" x2="774.7058823529412" y2="308.82352941176475" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="774.7058823529412" y1="308.82352941176475" x2="1046.4705882352941" y2="321.7647058823529" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="64.86486486486487" y1="332.4324324324325" x2="466.21621621621625" y2="287.8378378378378" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="466.21621621621625" y1="287.8378378378378" x2="555.4054054054054" y2="272.972972972973" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="555.4054054054054" y1="272.972972972973" x2="793.2432432432432" y2="228.3783783783784" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="793.2432432432432" y1="228.3783783783784" x2="971.6216216216216" y2="213.51351351351354" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="62.94117647058823" y1="295.88235294117646" x2="515.8823529411765" y2="257.05882352941177" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="515.8823529411765" y1="257.05882352941177" x2="593.5294117647059" y2="244.11764705882356" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="593.5294117647059" y1="244.11764705882356" x2="813.5294117647059" y2="205.29411764705887" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="813.5294117647059" y1="205.29411764705887" x2="994.7058823529411" y2="192.35294117647058" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="570.2702702702703" y1="302.7027027027027" x2="466.21621621621625" y2="287.8378378378378" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="606.4705882352941" y1="269.99999999999994" x2="515.8823529411765" y2="257.05882352941177" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="525.6756756756756" y1="243.24324324324323" x2="258.1081081081081" y2="198.6486486486486" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="258.1081081081081" y1="198.6486486486486" x2="124.32432432432432" y2="168.9189189189189" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="124.32432432432432" y1="168.9189189189189" x2="50.0" y2="154.0540540540541" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="567.6470588235294" y1="218.23529411764707" x2="321.7647058823529" y2="179.41176470588238" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="321.7647058823529" y1="179.41176470588238" x2="153.52941176470588" y2="153.52941176470588" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="153.52941176470588" y1="153.52941176470588" x2="50.0" y2="140.58823529411768" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="1120.2702702702704" y1="406.7567567567568" x2="1060.8108108108108" y2="391.89189189189193" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1060.8108108108108" y1="391.89189189189193" x2="1031.081081081081" y2="362.16216216216213" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1031.081081081081" y1="362.16216216216213" x2="971.6216216216216" y2="213.51351351351354" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="1124.1176470588234" y1="360.5882352941176" x2="1072.3529411764707" y2="347.64705882352945" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1072.3529411764707" y1="347.64705882352945" x2="1046.4705882352941" y2="321.7647058823529" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1046.4705882352941" y1="321.7647058823529" x2="994.7058823529411" y2="192.35294117647058" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="822.972972972973" y1="956.7567567567568" x2="882.4324324324325" y2="912.1621621621622" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="882.4324324324325" y1="912.1621621621622" x2="882.4324324324325" y2="763.5135135135135" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="839.4117647058823" y1="917.0588235294117" x2="904.1176470588235" y2="865.2941176470589" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="904.1176470588235" y1="865.2941176470589" x2="904.1176470588235" y2="722.9411764705883" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="347.2972972972973" y1="1135.1351351351352" x2="510.8108108108108" y2="1120.2702702702704" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="510.8108108108108" y1="1120.2702702702704" x2="629.7297297297297" y2="1060.8108108108108" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="629.7297297297297" y1="1060.8108108108108" x2="659.4594594594595" y2="1045.9459459459458" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="399.4117647058823" y1="1111.1764705882354" x2="502.94117647058823" y2="1124.1176470588234" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="502.94117647058823" y1="1124.1176470588234" x2="554.7058823529412" y2="1098.235294117647" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="554.7058823529412" y1="1098.235294117647" x2="671.1764705882352" y2="1020.5882352941176" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="671.1764705882352" y1="1020.5882352941176" x2="697.0588235294118" y2="1007.6470588235294" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="600.0" y1="1031.081081081081" x2="659.4594594594595" y2="1045.9459459459458" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="659.4594594594595" y1="1045.9459459459458" x2="808.108108108108" y2="1075.6756756756756" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="808.108108108108" y1="1075.6756756756756" x2="837.8378378378378" y2="1105.4054054054054" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="645.2941176470588" y1="994.7058823529412" x2="697.0588235294118" y2="1007.6470588235294" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="697.0588235294118" y1="1007.6470588235294" x2="826.4705882352941" y2="1033.5294117647059" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="826.4705882352941" y1="1033.5294117647059" x2="852.3529411764705" y2="1059.4117647058824" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="852.3529411764705" y1="1059.4117647058824" x2="865.2941176470589" y2="1085.2941176470588" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="406.7567567567568" y1="600.0" x2="377.02702702702703" y2="540.5405405405405" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="451.17647058823525" y1="528.8235294117646" x2="425.29411764705884" y2="477.0588235294117" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="466.21621621621625" y1="287.8378378378378" x2="585.1351351351352" y2="258.10810810810807" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="515.8823529411765" y1="257.05882352941177" x2="619.4117647058824" y2="231.17647058823525" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="406.7567567567568" y1="600.0" x2="391.8918918918919" y2="644.5945945945946" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="391.8918918918919" y1="644.5945945945946" x2="362.16216216216213" y2="718.918918918919" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="451.17647058823525" y1="528.8235294117646" x2="438.2352941176471" y2="593.5294117647059" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="438.2352941176471" y1="593.5294117647059" x2="412.3529411764706" y2="658.2352941176471" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="956.7567567567568" y1="808.1081081081081" x2="1001.3513513513514" y2="882.4324324324325" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="981.7647058823529" y1="774.7058823529412" x2="1020.5882352941176" y2="839.4117647058823" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="927.027027027027" y1="986.4864864864865" x2="897.2972972972973" y2="941.8918918918919" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="897.2972972972973" y1="941.8918918918919" x2="882.4324324324325" y2="912.1621621621622" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="955.8823529411765" y1="942.9411764705883" x2="917.0588235294117" y2="891.1764705882352" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="917.0588235294117" y1="891.1764705882352" x2="904.1176470588235" y2="865.2941176470589" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="614.8648648648648" y1="1150.0" x2="510.8108108108108" y2="1120.2702702702704" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="658.2352941176471" y1="1150.0" x2="632.3529411764706" y2="1137.0588235294117" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="632.3529411764706" y1="1137.0588235294117" x2="554.7058823529412" y2="1098.235294117647" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="1045.9459459459458" y1="852.7027027027027" x2="1090.5405405405406" y2="629.7297297297297" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1090.5405405405406" y1="629.7297297297297" x2="1120.2702702702704" y2="555.4054054054054" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="1059.4117647058824" y1="813.5294117647059" x2="1098.235294117647" y2="567.6470588235294" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1098.235294117647" y1="567.6470588235294" x2="1124.1176470588234" y2="490.0" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="718.918918918919" y1="570.2702702702703" x2="852.7027027027027" y2="525.6756756756756" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="852.7027027027027" y1="525.6756756756756" x2="986.4864864864865" y2="466.21621621621625" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="748.8235294117646" y1="502.94117647058823" x2="878.2352941176471" y2="464.11764705882354" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="878.2352941176471" y1="464.11764705882354" x2="1007.6470588235294" y2="412.35294117647067" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="1120.2702702702704" y1="555.4054054054054" x2="1075.6756756756756" y2="495.94594594594594" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="1075.6756756756756" y1="495.94594594594594" x2="1016.2162162162163" y2="436.48648648648646" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="1124.1176470588234" y1="490.0" x2="1085.2941176470588" y2="438.235294117647" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="1085.2941176470588" y1="438.235294117647" x2="1033.5294117647059" y2="386.47058823529414" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="332.4324324324324" y1="421.6216216216216" x2="466.21621621621625" y2="287.8378378378378" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="386.47058823529414" y1="373.52941176470586" x2="515.8823529411765" y2="257.05882352941177" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="540.5405405405405" y1="183.78378378378375" x2="793.2432432432432" y2="228.3783783783784" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="580.5882352941177" y1="166.4705882352941" x2="813.5294117647059" y2="205.29411764705887" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="540.5405405405405" y1="183.78378378378375" x2="258.1081081081081" y2="198.6486486486486" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="580.5882352941177" y1="166.4705882352941" x2="321.7647058823529" y2="179.41176470588238" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="1150.0" y1="481.0810810810811" x2="1120.2702702702704" y2="555.4054054054054" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="1150.0" y1="425.29411764705884" x2="1124.1176470588234" y2="490.0" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="243.24324324324326" y1="64.86486486486484" x2="287.8378378378378" y2="79.72972972972967" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="287.8378378378378" y1="79.72972972972967" x2="124.32432432432432" y2="168.9189189189189" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="295.88235294117646" y1="62.94117647058819" x2="347.6470588235294" y2="75.88235294117649" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="347.6470588235294" y1="75.88235294117649" x2="153.52941176470588" y2="153.52941176470588" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="109.45945945945945" y1="704.054054054054" x2="168.9189189189189" y2="659.4594594594595" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="168.9189189189189" y1="659.4594594594595" x2="198.64864864864865" y2="689.1891891891893" fill="none" stroke="red" stroke-width="3"/>
-    <line x1="198.64864864864865" y1="689.1891891891893" x2="228.3783783783784" y2="674.3243243243243" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="140.58823529411765" y1="645.2941176470589" x2="192.3529411764706" y2="606.4705882352941" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="192.3529411764706" y1="606.4705882352941" x2="257.05882352941177" y2="632.3529411764706" stroke="red" fill="none" stroke-width="3"/>
+    <line x1="257.05882352941177" y1="632.3529411764706" x2="282.94117647058823" y2="619.4117647058823" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="495.945945945946" y1="139.18918918918914" x2="778.3783783783784" y2="124.3243243243243" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="541.7647058823529" y1="127.64705882352938" x2="800.5882352941177" y2="114.70588235294119" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <line x1="481.0810810810811" y1="109.45945945945945" x2="778.3783783783784" y2="124.3243243243243" fill="none" stroke="red" stroke-width="3"/>
+    <line x1="528.8235294117646" y1="101.764705882353" x2="800.5882352941177" y2="114.70588235294119" stroke="red" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="510.8108108108108" cy="1120.2702702702704" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="519.8108108108108" y="1120.2702702702704" font-size="9">Akuressa</text>
+    <line x1="231.1764705882353" y1="904.1176470588235" x2="244.11764705882354" y2="955.8823529411765" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="244.11764705882354" y1="955.8823529411765" x2="502.94117647058823" y2="1124.1176470588234" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="502.94117647058823" y1="1124.1176470588234" x2="632.3529411764706" y2="1137.0588235294117" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="632.3529411764706" y1="1137.0588235294117" x2="852.3529411764705" y2="1059.4117647058824" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="852.3529411764705" y1="1059.4117647058824" x2="942.9411764705883" y2="1046.4705882352941" stroke="purple" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="317.5675675675676" cy="614.8648648648648" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="326.5675675675676" y="614.8648648648648" font-size="9">Ambepussa</text>
+    <line x1="127.6470588235294" y1="684.1176470588234" x2="218.23529411764707" y2="671.1764705882352" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="218.23529411764707" y1="671.1764705882352" x2="231.1764705882353" y2="904.1176470588235" stroke="purple" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="1120.2702702702704" cy="555.4054054054054" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1129.2702702702704" y="555.4054054054054" font-size="9">Ampara</text>
+    <line x1="166.47058823529412" y1="710.0" x2="127.6470588235294" y2="684.1176470588234" stroke="purple" fill="none" stroke-width="3"/>
+    <line x1="127.6470588235294" y1="684.1176470588234" x2="114.70588235294117" y2="580.5882352941176" stroke="purple" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="466.21621621621625" cy="287.8378378378378" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="475.21621621621625" y="287.8378378378378" font-size="9">Anuradhapura</text>
+    <line x1="942.9411764705883" y1="1046.4705882352941" x2="968.8235294117648" y2="1072.3529411764707" stroke="purple" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="302.7027027027027" cy="778.3783783783784" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="311.7027027027027" y="778.3783783783784" font-size="9">Avissawella</text>
+    <line x1="308.8235294117647" y1="541.7647058823529" x2="464.11764705882354" y2="399.4117647058823" stroke="purple" fill="none" stroke-width="3"/>
   </g>
   <g>
-    <circle cx="912.1621621621622" cy="733.7837837837837" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="921.1621621621622" y="733.7837837837837" font-size="9">Badulla</text>
+    <circle cx="554.7058823529412" cy="1098.235294117647" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="563.7058823529412" y="1098.235294117647" font-size="9">Akuressa</text>
   </g>
   <g>
-    <circle cx="1120.2702702702704" cy="406.7567567567568" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1129.2702702702704" y="406.7567567567568" font-size="9">Batticaloa</text>
+    <circle cx="373.5294117647059" cy="554.7058823529412" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="382.5294117647059" y="554.7058823529412" font-size="9">Ambepussa</text>
   </g>
   <g>
-    <circle cx="822.972972972973" cy="956.7567567567568" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="831.972972972973" y="956.7567567567568" font-size="9">Beragala</text>
+    <circle cx="1124.1176470588234" cy="490.0" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1133.1176470588234" y="490.0" font-size="9">Ampara</text>
   </g>
   <g>
-    <circle cx="391.8918918918919" cy="644.5945945945946" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="400.8918918918919" y="644.5945945945946" font-size="9">Bulathkohupitiya</text>
+    <circle cx="942.9411764705883" cy="1046.4705882352941" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="951.9411764705883" y="1046.4705882352941" font-size="9">Andarawewa</text>
   </g>
   <g>
-    <circle cx="1060.8108108108108" cy="391.89189189189193" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1069.8108108108108" y="391.89189189189193" font-size="9">Chenkaladi</text>
+    <circle cx="515.8823529411765" cy="257.05882352941177" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="524.8823529411765" y="257.05882352941177" font-size="9">Anuradhapura</text>
   </g>
   <g>
-    <circle cx="94.5945945945946" cy="822.9729729729729" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="103.5945945945946" y="822.9729729729729" font-size="9">Colombo</text>
+    <circle cx="360.5882352941176" cy="735.8823529411765" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="369.5882352941176" y="735.8823529411765" font-size="9">Avissawella</text>
   </g>
   <g>
-    <circle cx="1090.5405405405406" cy="629.7297297297297" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1099.5405405405406" y="629.7297297297297" font-size="9">Damana</text>
+    <circle cx="930.0" cy="697.0588235294118" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="939.0" y="697.0588235294118" font-size="9">Badulla</text>
   </g>
   <g>
-    <circle cx="733.7837837837837" cy="377.027027027027" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="742.7837837837837" y="377.027027027027" font-size="9">Dambulla</text>
+    <circle cx="852.3529411764705" cy="1059.4117647058824" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="861.3529411764705" y="1059.4117647058824" font-size="9">Barawakumbura</text>
   </g>
   <g>
-    <circle cx="629.7297297297297" cy="1060.8108108108108" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="638.7297297297297" y="1060.8108108108108" font-size="9">Deniyaya</text>
+    <circle cx="1124.1176470588234" cy="360.5882352941176" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1133.1176470588234" y="360.5882352941176" font-size="9">Batticaloa</text>
   </g>
   <g>
-    <circle cx="168.9189189189189" cy="659.4594594594595" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="177.9189189189189" y="659.4594594594595" font-size="9">Ekala</text>
+    <circle cx="839.4117647058823" cy="917.0588235294117" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="848.4117647058823" y="917.0588235294117" font-size="9">Beragala</text>
   </g>
   <g>
-    <circle cx="897.2972972972973" cy="941.8918918918919" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="906.2972972972973" y="941.8918918918919" font-size="9">Ella</text>
+    <circle cx="438.2352941176471" cy="593.5294117647059" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="447.2352941176471" y="593.5294117647059" font-size="9">Bulathkohupitiya</text>
   </g>
   <g>
-    <circle cx="808.108108108108" cy="1075.6756756756756" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="817.108108108108" y="1075.6756756756756" font-size="9">Embilipitiya</text>
+    <circle cx="1072.3529411764707" cy="347.64705882352945" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1081.3529411764707" y="347.64705882352945" font-size="9">Chenkaladi</text>
   </g>
   <g>
-    <circle cx="570.2702702702703" cy="302.7027027027027" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="579.2702702702703" y="302.7027027027027" font-size="9">Galkulama</text>
+    <circle cx="75.88235294117646" cy="761.7647058823528" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="84.88235294117646" y="761.7647058823528" font-size="9">Colombo Fort</text>
   </g>
   <g>
-    <circle cx="347.2972972972973" cy="1135.1351351351352" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="356.2972972972973" y="1135.1351351351352" font-size="9">Galle</text>
+    <circle cx="101.76470588235294" cy="800.5882352941177" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="110.76470588235294" y="800.5882352941177" font-size="9">Colombo Public Library</text>
   </g>
   <g>
-    <circle cx="198.64864864864865" cy="689.1891891891893" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="207.64864864864865" y="689.1891891891893" font-size="9">Gampaha</text>
+    <circle cx="1098.235294117647" cy="567.6470588235294" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1107.235294117647" y="567.6470588235294" font-size="9">Damana</text>
   </g>
   <g>
-    <circle cx="748.6486486486486" cy="347.2972972972973" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="757.6486486486486" y="347.2972972972973" font-size="9">Habarana</text>
+    <circle cx="761.7647058823529" cy="334.70588235294116" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="770.7647058823529" y="334.70588235294116" font-size="9">Dambulla</text>
   </g>
   <g>
-    <circle cx="882.4324324324325" cy="763.5135135135135" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="891.4324324324325" y="763.5135135135135" font-size="9">Hali-Ela</text>
+    <circle cx="671.1764705882352" cy="1020.5882352941176" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="680.1764705882352" y="1020.5882352941176" font-size="9">Deniyaya</text>
   </g>
   <g>
-    <circle cx="941.891891891892" cy="1090.5405405405406" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="950.891891891892" y="1090.5405405405406" font-size="9">Hambantota</text>
+    <circle cx="192.3529411764706" cy="606.4705882352941" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="201.3529411764706" y="606.4705882352941" font-size="9">Ekala</text>
   </g>
   <g>
-    <circle cx="689.1891891891892" cy="867.5675675675675" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="698.1891891891892" y="867.5675675675675" font-size="9">Hatton</text>
+    <circle cx="917.0588235294117" cy="891.1764705882352" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="926.0588235294117" y="891.1764705882352" font-size="9">Ella</text>
   </g>
   <g>
-    <circle cx="793.2432432432432" cy="228.3783783783784" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="802.2432432432432" y="228.3783783783784" font-size="9">Horowopotana</text>
+    <circle cx="826.4705882352941" cy="1033.5294117647059" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="835.4705882352941" y="1033.5294117647059" font-size="9">Embilipitiya</text>
   </g>
   <g>
-    <circle cx="109.45945945945945" cy="704.054054054054" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="118.45945945945945" y="704.054054054054" font-size="9">Ja-Ela</text>
+    <circle cx="606.4705882352941" cy="269.99999999999994" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="615.4705882352941" y="269.99999999999994" font-size="9">Galkulama</text>
   </g>
   <g>
-    <circle cx="213.51351351351352" cy="50.0" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="222.51351351351352" y="50.0" font-size="9">Jaffna</text>
+    <circle cx="399.4117647058823" cy="1111.1764705882354" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="408.4117647058823" y="1111.1764705882354" font-size="9">Galle</text>
   </g>
   <g>
-    <circle cx="718.918918918919" cy="570.2702702702703" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="727.918918918919" y="570.2702702702703" font-size="9">Kandy</text>
+    <circle cx="257.05882352941177" cy="632.3529411764706" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="266.05882352941177" y="632.3529411764706" font-size="9">Gampaha</text>
   </g>
   <g>
-    <circle cx="1150.0" cy="481.0810810810811" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1159.0" y="481.0810810810811" font-size="9">Karativu</text>
+    <circle cx="244.11764705882354" cy="955.8823529411765" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="253.11764705882354" y="955.8823529411765" font-size="9">Gelanigama</text>
   </g>
   <g>
-    <circle cx="362.16216216216213" cy="718.918918918919" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="371.16216216216213" y="718.918918918919" font-size="9">Karawanella</text>
+    <circle cx="632.3529411764706" cy="1137.0588235294117" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="641.3529411764706" y="1137.0588235294117" font-size="9">Godagama</text>
   </g>
   <g>
-    <circle cx="704.0540540540541" cy="510.8108108108109" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="713.0540540540541" y="510.8108108108109" font-size="9">Katugastota</text>
+    <circle cx="774.7058823529412" cy="308.82352941176475" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="783.7058823529412" y="308.82352941176475" font-size="9">Habarana</text>
   </g>
   <g>
-    <circle cx="406.7567567567568" cy="600.0" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="415.7567567567568" y="600.0" font-size="9">Kegalle</text>
+    <circle cx="904.1176470588235" cy="722.9411764705883" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="913.1176470588235" y="722.9411764705883" font-size="9">Hali-Ela</text>
   </g>
   <g>
-    <circle cx="287.8378378378378" cy="79.72972972972967" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="296.8378378378378" y="79.72972972972967" font-size="9">Kerativu</text>
+    <circle cx="968.8235294117648" cy="1072.3529411764707" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="977.8235294117648" y="1072.3529411764707" font-size="9">Hambantota</text>
   </g>
   <g>
-    <circle cx="79.72972972972973" cy="837.8378378378378" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="88.72972972972973" y="837.8378378378378" font-size="9">Kollupitiya</text>
+    <circle cx="722.9411764705883" cy="826.470588235294" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="731.9411764705883" y="826.470588235294" font-size="9">Hatton</text>
   </g>
   <g>
-    <circle cx="882.4324324324325" cy="912.1621621621622" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="891.4324324324325" y="912.1621621621622" font-size="9">Kumbalwela</text>
+    <circle cx="813.5294117647059" cy="205.29411764705887" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="822.5294117647059" y="205.29411764705887" font-size="9">Horowopotana</text>
   </g>
   <g>
-    <circle cx="421.6216216216216" cy="451.3513513513514" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="430.6216216216216" y="451.3513513513514" font-size="9">Kurunegala</text>
+    <circle cx="502.94117647058823" cy="1124.1176470588234" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="511.94117647058823" y="1124.1176470588234" font-size="9">Imaduwa</text>
   </g>
   <g>
-    <circle cx="659.4594594594595" cy="1045.9459459459458" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="668.4594594594595" y="1045.9459459459458" font-size="9">Madampe</text>
+    <circle cx="140.58823529411765" cy="645.2941176470589" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="149.58823529411765" y="645.2941176470589" font-size="9">Ja-Ela</text>
   </g>
   <g>
-    <circle cx="1016.2162162162163" cy="436.48648648648646" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1025.2162162162163" y="436.48648648648646" font-size="9">MahaOya</text>
+    <circle cx="270.0" cy="50.0" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="279.0" y="50.0" font-size="9">Jaffna</text>
   </g>
   <g>
-    <circle cx="852.7027027027027" cy="525.6756756756756" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="861.7027027027027" y="525.6756756756756" font-size="9">Mahiyangana</text>
+    <circle cx="218.23529411764707" cy="671.1764705882352" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="227.23529411764707" y="671.1764705882352" font-size="9">Kadawatha</text>
   </g>
   <g>
-    <circle cx="495.945945945946" cy="139.18918918918914" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="504.945945945946" y="139.18918918918914" font-size="9">Mankulam</text>
+    <circle cx="748.8235294117646" cy="502.94117647058823" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="757.8235294117646" y="502.94117647058823" font-size="9">Kandy</text>
   </g>
   <g>
-    <circle cx="124.32432432432432" cy="168.9189189189189" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="133.32432432432432" y="168.9189189189189" font-size="9">Mannar</text>
+    <circle cx="1150.0" cy="425.29411764705884" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1159.0" y="425.29411764705884" font-size="9">Karativu</text>
   </g>
   <g>
-    <circle cx="644.5945945945946" cy="317.5675675675675" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="653.5945945945946" y="317.5675675675675" font-size="9">Maradankadawela</text>
+    <circle cx="412.3529411764706" cy="658.2352941176471" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="421.3529411764706" y="658.2352941176471" font-size="9">Karawanella</text>
   </g>
   <g>
-    <circle cx="614.8648648648648" cy="1150.0" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="623.8648648648648" y="1150.0" font-size="9">Matara</text>
+    <circle cx="735.8823529411765" cy="451.17647058823536" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="744.8823529411765" y="451.17647058823536" font-size="9">Katugastota</text>
   </g>
   <g>
-    <circle cx="525.6756756756756" cy="243.24324324324323" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="534.6756756756756" y="243.24324324324323" font-size="9">Medawachchiya</text>
+    <circle cx="114.70588235294117" cy="580.5882352941176" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="123.70588235294117" y="580.5882352941176" font-size="9">Katunayake</text>
   </g>
   <g>
-    <circle cx="555.4054054054054" cy="272.972972972973" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="564.4054054054054" y="272.972972972973" font-size="9">Mihintale</text>
+    <circle cx="451.17647058823525" cy="528.8235294117646" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="460.17647058823525" y="528.8235294117646" font-size="9">Kegalle</text>
   </g>
   <g>
-    <circle cx="1001.3513513513514" cy="882.4324324324325" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1010.3513513513514" y="882.4324324324325" font-size="9">Moneragala</text>
+    <circle cx="347.6470588235294" cy="75.88235294117649" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="356.6470588235294" y="75.88235294117649" font-size="9">Kerativu</text>
   </g>
   <g>
-    <circle cx="778.3783783783784" cy="124.3243243243243" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="787.3783783783784" y="124.3243243243243" font-size="9">Mullaitivu</text>
+    <circle cx="127.6470588235294" cy="684.1176470588234" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="136.6470588235294" y="684.1176470588234" font-size="9">Kerawalapitiya</text>
   </g>
   <g>
-    <circle cx="272.972972972973" cy="971.6216216216216" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="281.972972972973" y="971.6216216216216" font-size="9">Nambapana</text>
+    <circle cx="88.8235294117647" cy="787.6470588235295" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="97.8235294117647" y="787.6470588235295" font-size="9">Kollupitiya</text>
   </g>
   <g>
-    <circle cx="243.24324324324326" cy="64.86486486486484" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="252.24324324324326" y="64.86486486486484" font-size="9">Navakkuli</text>
+    <circle cx="231.1764705882353" cy="904.1176470588235" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="240.1764705882353" y="904.1176470588235" font-size="9">Kottawa</text>
   </g>
   <g>
-    <circle cx="837.8378378378378" cy="1105.4054054054054" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="846.8378378378378" y="1105.4054054054054" font-size="9">Nonagama</text>
+    <circle cx="904.1176470588235" cy="865.2941176470589" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="913.1176470588235" y="865.2941176470589" font-size="9">Kumbalwela</text>
   </g>
   <g>
-    <circle cx="763.5135135135135" cy="793.2432432432432" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="772.5135135135135" y="793.2432432432432" font-size="9">Nuwara Eliya</text>
+    <circle cx="464.11764705882354" cy="399.4117647058823" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="473.11764705882354" y="399.4117647058823" font-size="9">Kurunegala</text>
   </g>
   <g>
-    <circle cx="451.35135135135135" cy="94.59459459459462" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="460.35135135135135" y="94.59459459459462" font-size="9">Pachchilapalli</text>
+    <circle cx="697.0588235294118" cy="1007.6470588235294" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="706.0588235294118" y="1007.6470588235294" font-size="9">Madampe</text>
   </g>
   <g>
-    <circle cx="332.4324324324324" cy="421.6216216216216" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="341.4324324324324" y="421.6216216216216" font-size="9">Padeniya</text>
+    <circle cx="1033.5294117647059" cy="386.47058823529414" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1042.5294117647059" y="386.47058823529414" font-size="9">MahaOya</text>
   </g>
   <g>
-    <circle cx="986.4864864864865" cy="466.21621621621625" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="995.4864864864865" y="466.21621621621625" font-size="9">Padiyatalawa</text>
+    <circle cx="878.2352941176471" cy="464.11764705882354" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="887.2352941176471" y="464.11764705882354" font-size="9">Mahiyangana</text>
   </g>
   <g>
-    <circle cx="154.05405405405406" cy="1001.3513513513514" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="163.05405405405406" y="1001.3513513513514" font-size="9">Panadura</text>
+    <circle cx="541.7647058823529" cy="127.64705882352938" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="550.7647058823529" y="127.64705882352938" font-size="9">Mankulam</text>
   </g>
   <g>
-    <circle cx="481.0810810810811" cy="109.45945945945945" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="490.0810810810811" y="109.45945945945945" font-size="9">Paranthan</text>
+    <circle cx="153.52941176470588" cy="153.52941176470588" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="162.52941176470588" y="153.52941176470588" font-size="9">Mannar</text>
   </g>
   <g>
-    <circle cx="258.1081081081081" cy="198.6486486486486" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="267.1081081081081" y="198.6486486486486" font-size="9">Parayanalankulam</text>
+    <circle cx="684.1176470588234" cy="282.9411764705883" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="693.1176470588234" y="282.9411764705883" font-size="9">Maradankadawela</text>
   </g>
   <g>
-    <circle cx="956.7567567567568" cy="808.1081081081081" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="965.7567567567568" y="808.1081081081081" font-size="9">Passara</text>
+    <circle cx="658.2352941176471" cy="1150.0" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="667.2352941176471" y="1150.0" font-size="9">Matara</text>
   </g>
   <g>
-    <circle cx="139.1891891891892" cy="748.6486486486486" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="148.1891891891892" y="748.6486486486486" font-size="9">Peliyagoda</text>
+    <circle cx="567.6470588235294" cy="218.23529411764707" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="576.6470588235294" y="218.23529411764707" font-size="9">Medawachchiya</text>
   </g>
   <g>
-    <circle cx="600.0" cy="1031.081081081081" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="609.0" y="1031.081081081081" font-size="9">Pelmadulla</text>
+    <circle cx="593.5294117647059" cy="244.11764705882356" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="602.5294117647059" y="244.11764705882356" font-size="9">Mihintale</text>
   </g>
   <g>
-    <circle cx="674.3243243243243" cy="585.1351351351352" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="683.3243243243243" y="585.1351351351352" font-size="9">Peradeniya</text>
+    <circle cx="308.8235294117647" cy="541.7647058823529" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="317.8235294117647" y="541.7647058823529" font-size="9">Mirigama</text>
   </g>
   <g>
-    <circle cx="377.02702702702703" cy="540.5405405405405" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="386.02702702702703" y="540.5405405405405" font-size="9">Polgahawela</text>
+    <circle cx="1020.5882352941176" cy="839.4117647058823" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1029.5882352941176" y="839.4117647058823" font-size="9">Moneragala</text>
   </g>
   <g>
-    <circle cx="1135.1351351351352" cy="927.027027027027" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1144.1351351351352" y="927.027027027027" font-size="9">Pottuvil</text>
+    <circle cx="800.5882352941177" cy="114.70588235294119" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="809.5882352941177" y="114.70588235294119" font-size="9">Mullaitivu</text>
   </g>
   <g>
-    <circle cx="64.86486486486487" cy="332.4324324324325" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="73.86486486486487" y="332.4324324324325" font-size="9">Puttalam</text>
+    <circle cx="334.7058823529412" cy="930.0" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="343.7058823529412" y="930.0" font-size="9">Nambapana</text>
   </g>
   <g>
-    <circle cx="585.1351351351352" cy="258.10810810810807" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="594.1351351351352" y="258.10810810810807" font-size="9">Rambewa</text>
+    <circle cx="295.88235294117646" cy="62.94117647058819" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="304.88235294117646" y="62.94117647058819" font-size="9">Navakkuli</text>
   </g>
   <g>
-    <circle cx="436.4864864864865" cy="1016.2162162162163" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="445.4864864864865" y="1016.2162162162163" font-size="9">Ratnapura</text>
+    <circle cx="865.2941176470589" cy="1085.2941176470588" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="874.2941176470589" y="1085.2941176470588" font-size="9">Nonagama</text>
   </g>
   <g>
-    <circle cx="1045.9459459459458" cy="852.7027027027027" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1054.9459459459458" y="852.7027027027027" font-size="9">Siyambalanduwa</text>
+    <circle cx="787.6470588235294" cy="748.8235294117646" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="796.6470588235294" y="748.8235294117646" font-size="9">Nuwara Eliya</text>
   </g>
   <g>
-    <circle cx="183.7837837837838" cy="897.2972972972973" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="192.7837837837838" y="897.2972972972973" font-size="9">Sri Jayewardenepura</text>
+    <circle cx="490.0" cy="88.8235294117647" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="499.0" y="88.8235294117647" font-size="9">Pachchilapalli</text>
   </g>
   <g>
-    <circle cx="50.0" cy="154.0540540540541" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="59.0" y="154.0540540540541" font-size="9">Talaimannar</text>
+    <circle cx="386.47058823529414" cy="373.52941176470586" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="395.47058823529414" y="373.52941176470586" font-size="9">Padeniya</text>
   </g>
   <g>
-    <circle cx="1031.081081081081" cy="362.16216216216213" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1040.081081081081" y="362.16216216216213" font-size="9">Tirikkondiadimadu</text>
+    <circle cx="1007.6470588235294" cy="412.35294117647067" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1016.6470588235294" y="412.35294117647067" font-size="9">Padiyatalawa</text>
   </g>
   <g>
-    <circle cx="971.6216216216216" cy="213.51351351351354" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="980.6216216216216" y="213.51351351351354" font-size="9">Trincomalee</text>
+    <circle cx="179.41176470588235" cy="968.8235294117648" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="188.41176470588235" y="968.8235294117648" font-size="9">Panadura</text>
   </g>
   <g>
-    <circle cx="1075.6756756756756" cy="495.94594594594594" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1084.6756756756756" y="495.94594594594594" font-size="9">Uhana</text>
+    <circle cx="528.8235294117646" cy="101.764705882353" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="537.8235294117646" y="101.764705882353" font-size="9">Paranthan</text>
   </g>
   <g>
-    <circle cx="540.5405405405405" cy="183.78378378378375" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="549.5405405405405" y="183.78378378378375" font-size="9">Vavuniya</text>
+    <circle cx="321.7647058823529" cy="179.41176470588238" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="330.7647058823529" y="179.41176470588238" font-size="9">Parayanalankulam</text>
   </g>
   <g>
-    <circle cx="927.027027027027" cy="986.4864864864865" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="936.027027027027" y="986.4864864864865" font-size="9">Wellawaya</text>
+    <circle cx="981.7647058823529" cy="774.7058823529412" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="990.7647058823529" y="774.7058823529412" font-size="9">Passara</text>
   </g>
   <g>
-    <circle cx="228.3783783783784" cy="674.3243243243243" r="6" fill="white" stroke="red" stroke-width="3"/>
-    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="237.3783783783784" y="674.3243243243243" font-size="9">Yakkala</text>
+    <circle cx="166.47058823529412" cy="710.0" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="175.47058823529412" y="710.0" font-size="9">Peliyagoda</text>
+  </g>
+  <g>
+    <circle cx="645.2941176470588" cy="994.7058823529412" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="654.2941176470588" y="994.7058823529412" font-size="9">Pelmadulla</text>
+  </g>
+  <g>
+    <circle cx="710.0" cy="515.8823529411766" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="719.0" y="515.8823529411766" font-size="9">Peradeniya</text>
+  </g>
+  <g>
+    <circle cx="425.29411764705884" cy="477.0588235294117" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="434.29411764705884" y="477.0588235294117" font-size="9">Polgahawela</text>
+  </g>
+  <g>
+    <circle cx="1137.0588235294117" cy="878.2352941176471" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1146.0588235294117" y="878.2352941176471" font-size="9">Pottuvil</text>
+  </g>
+  <g>
+    <circle cx="62.94117647058823" cy="295.88235294117646" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="71.94117647058823" y="295.88235294117646" font-size="9">Puttalam</text>
+  </g>
+  <g>
+    <circle cx="619.4117647058824" cy="231.17647058823525" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="628.4117647058824" y="231.17647058823525" font-size="9">Rambewa</text>
+  </g>
+  <g>
+    <circle cx="477.05882352941177" cy="981.7647058823529" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="486.05882352941177" y="981.7647058823529" font-size="9">Ratnapura</text>
+  </g>
+  <g>
+    <circle cx="1059.4117647058824" cy="813.5294117647059" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1068.4117647058824" y="813.5294117647059" font-size="9">Siyambalanduwa</text>
+  </g>
+  <g>
+    <circle cx="205.2941176470588" cy="852.3529411764707" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="214.2941176470588" y="852.3529411764707" font-size="9">Sri Jayewardenepura</text>
+  </g>
+  <g>
+    <circle cx="50.0" cy="140.58823529411768" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="59.0" y="140.58823529411768" font-size="9">Talaimannar</text>
+  </g>
+  <g>
+    <circle cx="1046.4705882352941" cy="321.7647058823529" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1055.4705882352941" y="321.7647058823529" font-size="9">Tirikkondiadimadu</text>
+  </g>
+  <g>
+    <circle cx="994.7058823529411" cy="192.35294117647058" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1003.7058823529411" y="192.35294117647058" font-size="9">Trincomalee</text>
+  </g>
+  <g>
+    <circle cx="1085.2941176470588" cy="438.235294117647" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="1094.2941176470588" y="438.235294117647" font-size="9">Uhana</text>
+  </g>
+  <g>
+    <circle cx="580.5882352941177" cy="166.4705882352941" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="589.5882352941177" y="166.4705882352941" font-size="9">Vavuniya</text>
+  </g>
+  <g>
+    <circle cx="955.8823529411765" cy="942.9411764705883" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="964.8823529411765" y="942.9411764705883" font-size="9">Wellawaya</text>
+  </g>
+  <g>
+    <circle cx="282.94117647058823" cy="619.4117647058823" r="6" fill="white" stroke="gray" stroke-width="3"/>
+    <text font-family="Futura" text-anchor="start" fill="black" stroke="none" x="291.94117647058823" y="619.4117647058823" font-size="9">Yakkala</text>
   </g>
 </svg>

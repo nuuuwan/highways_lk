@@ -1,11 +1,13 @@
 {
   "AA000": [
     "Kollupitiya",
+    "Colombo Public Library",
     "Sri Jayewardenepura"
   ],
   "AA001": [
-    "Colombo",
+    "Colombo Fort",
     "Peliyagoda",
+    "Kadawatha",
     "Yakkala",
     "Ambepussa",
     "Kegalle",
@@ -13,7 +15,7 @@
     "Kandy"
   ],
   "AA002": [
-    "Colombo",
+    "Colombo Fort",
     "Kollupitiya",
     "Panadura",
     "Galle",
@@ -25,10 +27,13 @@
   "AA003": [
     "Peliyagoda",
     "Ja-Ela",
+    "Katunayake",
     "Puttalam"
   ],
   "AA004": [
-    "Colombo",
+    "Colombo Fort",
+    "Colombo Public Library",
+    "Kottawa",
     "Avissawella",
     "Ratnapura",
     "Pelmadulla",
@@ -66,6 +71,7 @@
   ],
   "AA008": [
     "Panadura",
+    "Gelanigama",
     "Nambapana",
     "Ratnapura"
   ],
@@ -126,6 +132,7 @@
   ],
   "AA017": [
     "Galle",
+    "Imaduwa",
     "Akuressa",
     "Deniyaya",
     "Madampe"
@@ -134,6 +141,7 @@
     "Pelmadulla",
     "Madampe",
     "Embilipitiya",
+    "Barawakumbura",
     "Nonagama"
   ],
   "AA019": [
@@ -160,6 +168,7 @@
   ],
   "AA024": [
     "Matara",
+    "Godagama",
     "Akuressa"
   ],
   "AA025": [
@@ -211,5 +220,31 @@
   "AA035": [
     "Paranthan",
     "Mullaitivu"
+  ],
+  "E001": [
+    "Kottawa",
+    "Gelanigama",
+    "Imaduwa",
+    "Godagama",
+    "Barawakumbura",
+    "Andarawewa"
+  ],
+  "E002": [
+    "Kerawalapitiya",
+    "Kadawatha",
+    "Kottawa"
+  ],
+  "E003": [
+    "Peliyagoda",
+    "Kerawalapitiya",
+    "Katunayake"
+  ],
+  "E006": [
+    "Andarawewa",
+    "Hambantota"
+  ],
+  "E004": [
+    "Mirigama",
+    "Kurunegala"
   ]
 }

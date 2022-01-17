@@ -2,7 +2,7 @@ from utils import filex, jsonx
 
 from __constants import (GRAPH_PLACES_FILE, GRAPH_ROADS_FILE, HEIGHT, MAP_FILE,
                          PADDING, STYLE_PLACE_CIRCLE, STYLE_PLACE_TEXT,
-                         STYLE_ROAD_LINE, WIDTH)
+                         STYLE_ROAD_LINE, STYLE_ROAD_LINE_STROKE_MAP, WIDTH)
 from _geo import get_func_transform
 from _xmlx import _, render_xml
 
@@ -105,6 +105,7 @@ def draw():
                         y1=y1,
                         x2=x2,
                         y2=y2,
+                        stroke=STYLE_ROAD_LINE_STROKE_MAP[road_id[:2]],
                     )
                     | STYLE_ROAD_LINE,
                 )
